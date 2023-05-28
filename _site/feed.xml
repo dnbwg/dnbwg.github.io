@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>documentation-theme-jekyll</title>
+        <description>Honux&apos;s CPU Museum - 在线CPU博物馆 微处理器博物馆 古董CPU收藏 中央处理器</description>
+        <link>http://0.0.0.0:8787/</link>
+        <atom:link href="http://0.0.0.0:8787/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 28 May 2023 21:39:20 +0800</pubDate>
+        <lastBuildDate>Sun, 28 May 2023 21:39:20 +0800</lastBuildDate>
+        <generator>Jekyll v3.9.0</generator>
+        
+        <item>
+            <title>电脑博物馆：体验那些改变写作的科技</title>
+            <description>&lt;p&gt;大家好，我今天分享的主题是《电脑博物馆：改变我们写作的科技》。希望能够通过几个话题来展示一系列在信息技术革命之中出现的对写作者和写作这件事情本身产生巨大影响的技术，来给大家一个机会去体验和思考科技与写作之间的关系。同时我也希望这次能够做一次云导游，来带大家参观一下我搭建的这个网页里的电脑博物馆。&lt;/p&gt;
+
+&lt;p&gt;当然需要提醒一下，因为老式的电脑大多是需要通过键盘操作而非触屏，因此网页里的电脑博物馆并没有对手机浏览进行优化，如果大家要想尝试的话，最好还是用PC上的浏览器。&lt;/p&gt;
+
+&lt;p&gt;在接下来的介绍中，我会的提到许多软件都是在这里可以在网页里的电脑博物馆操作的，大家可以亲自操作一下我提到的这些软件，这样的话就会有一个更直观的认识了。&lt;/p&gt;
+
+&lt;p&gt;首先我还是简单介绍一下网页里的电脑博物馆，它的主要的创意是来自于互联网档案馆http://Archive.org。因为众所周知的原因，互联网档案馆并没有办法很顺利的在国内访问，能够填平这样的“数字鸿沟”就成了网页里的电脑博物馆创建的初衷。逐渐的我发现，在介绍或者讨论许多电脑或者是互联网相关的知识的时候，网页里的电脑博物馆所展示的虚拟展品，在讨论或介绍许多主题的时候，都能够很好的配合我希望介绍的内容，也因此，它就成了我的“动态PPT”。&lt;/p&gt;
+
+&lt;p&gt;那么，我们就开始今天的第一个话题。说到电脑写作这个事情，可能大家的第一印象都会是我们写作时所使用的电脑软件，比如说平时我们会用Word或者苹果的iWork，以及WPS等软件。而这些软件都被归类为Word Processor，也就是字处理器，那我们就先从字处理器开始这一次的分享吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;文字处理器&quot;&gt;文字处理器&lt;/h2&gt;
+
+&lt;p&gt;我们先来回顾一下字处理的历史，电子化的字处理器起源于60年代，最开始是形态IBM的点磁卡片打字机，叫做IBM MT/ST。如果有人用过机械打字机就会有这样的经验：打字机虽然比写字省力，但并没有提供电子式的存储、重放或者是自由修改等字处理能力。如果打错字的话，就需要用涂改液或者胶带把它盖掉；而如果需要打印多份的话，它自己也没有办法复印，你只能每次都用手敲一遍。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_01.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_01.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;但是有了磁带或者磁卡存储的打字机之后，就有一些字处理能力了，可以比较方便的在对存储的内容作出修改或是重放，文稿可以被保存到磁卡或磁带存档或携带，当你想重新打印一份的时候，就可以直接从存储介质里面调用，而不需要再重新的手打一份了。&lt;/p&gt;
+
+&lt;p&gt;到了60年代末70年代初的时候，北美的华人企业家王安创办的王安实验室开发了一款名为Word Processing System的产品，这就是WPS这个词的起源。最早期的WPS实际上只是一个增强版的磁带存储型打字机，这款产品在IBM的电子存储型打字机上搭配了王安实验室开发的电子计算器，实现了比IBM原厂的产品更丰富的文字处理功能。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_02.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_02.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;王安实验室的Wang 1200字处理器&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;大家可以想象，基于机械打字机的文字处理系统有着很大的局限，它的任何输出都需要打印在纸上，总是需要色带或者是打印纸这样的耗材。而用电子荧光屏来做这个来代替打字机的纸张作为输出的界面，在减少纸张消耗的同时，修改起来也更容易。王安实验室1975推出的OIS系统（Office Information System - 办公室信息系统）就是这样的一次升级。&lt;/p&gt;
+
+&lt;p&gt;短短两年之后的1977年，个人电脑革命轰轰烈烈拉开了序幕，包括Apple II，Commodore PET，Tandy TRS-80在内的三款个人电脑让个人电脑从发烧友们的玩具变成市场上炙手可热的商品，并把文字处理迅速推进到个人电脑的时代。&lt;/p&gt;
+
+&lt;p&gt;第一款运行在微行个人电脑上的文字处理软件，叫Electric Pencil（电动铅笔）。它的发明者Michael Shrayer他在成为全职软件开发人员之前，是一名电影工作者，他做过院线电影的摄影师，在IMDB上面还能找到其参与拍摄的作品。许多在电脑行业里面重要的发明创造，都并不是由职业的工程师和科学家来完成的。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_03.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_03.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行Electric Pencil&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在网站里打开 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/player.html?machine=trs80model3&quot; target=&quot;_blank&quot;&gt;TRS-80 Model III&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在下面的软件列表里选“Electric Pencil”&lt;/p&gt;
+    &lt;p&gt;等待磁盘载入&lt;/p&gt;
+    &lt;p&gt;询问是否有小写字母支持时选Y&lt;/p&gt;
+    &lt;p&gt;按Shift+&quot;-&quot;（减号）解除大写字母锁定&lt;/p&gt;
+    &lt;p&gt;就可以自由的输入了&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在Electric Pencil出现之后，我们就很快就会看到更多的电脑上的字处理软件，其中影响力最大的软件是WordStar，它可能是文字界面时代世界上最流行的字处理软件，也是后面诸多字处理软件的一个基础，在网页的电脑博物馆里面你同样可以操作它。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_04.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_04.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行WordStar&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=cpmz80&quot; target=&quot;_blank&quot;&gt;CP/M Z80 (MYZ80)&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;启动Z80模拟器，一路按任意键继续直到看到A0&amp;gt;提示符&lt;/p&gt;
+    &lt;p&gt;输入b:切换到B盘&lt;/p&gt;
+    &lt;p&gt;输入ws启动WordStar&lt;/p&gt;
+    &lt;p&gt;输入D打开文书文件&lt;/p&gt;
+    &lt;p&gt;输入任意文件名，就可以进入编辑界面&lt;/p&gt;
+    &lt;p&gt;Z80终端不支持PC的方向键&lt;/p&gt;
+    &lt;p&gt;使用Ctrl+&lt;/p&gt;
+    &lt;p&gt;E&lt;/p&gt;
+    &lt;p&gt;S D&lt;/p&gt;
+    &lt;p&gt;X&lt;/p&gt;
+    &lt;p&gt;（注意键盘上的位置）&lt;/p&gt;
+    &lt;p&gt;移动光标&lt;/p&gt;
+    &lt;p&gt;Ctrl+G相当于PC的Delete&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;值得一提的是直到今天仍然有许多使用WordStar的人，包括《冰与火之歌》的作者乔治·R·R·马丁就仍在使用DOS版本的WordStar，它操作方式也也启发了后面的许多软件，比如说金山WPS就很大程度上模仿了WordStar的快捷键操作。&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行金山WPS&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=ucdos&quot; target=&quot;_blank&quot;&gt;DOS软件：UCDOS 7.0&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;待UCDOS图形界面启动后，运行WPS&lt;/p&gt;
+    &lt;p&gt;按“D”编辑文书文件&lt;/p&gt;
+    &lt;p&gt;输入文件名&lt;/p&gt;
+    &lt;p&gt;（是不是和WordStar很像？）&lt;/p&gt;
+    &lt;p&gt;按ESC呼出菜单，Alt+F2启动拼音，Alt+F6切回英文&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;网页里的电脑博物馆还提供Apple II上著名的文字处理软件Apple Writer，大家也可以试试看&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行Apple Writer&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/player.html?machine=apple2e&quot; target=&quot;_blank&quot;&gt;Apple IIe&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;点Disk1旁边的Load&lt;/p&gt;
+    &lt;p&gt;找到Productivity&lt;/p&gt;
+    &lt;p&gt;选AppleWriter，点Load&lt;/p&gt;
+    &lt;p&gt;等待电脑启动&lt;/p&gt;
+    &lt;p&gt;出现提示后，点回车启动AppleWriter&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;字处理软件来历史上最重要的变化要数“所见即所得（What You See Is What You Get - WYSIWYG）” 这个功能的出现，“所见即所得”出现的可能要比想象的早很多，它在1974年就已经出现在实验室里了，甚至早于前面提到的个人电脑上最早的字处理软件Electric Pencil。&lt;/p&gt;
+
+&lt;p&gt;而它的诞生地就是大名鼎鼎的Xerox Alto实验室中和实验室同名的Alto电脑上，大家也可以在网页里的电脑博物馆中体验一下这款名为Bravo的，世界上最早的所见即所得的文字处理软件。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_05.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_05.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行Bravo&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/player.html?machine=salto&quot; target=&quot;_blank&quot;&gt;Xerox Alto&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;等待系统启动，直到出现“&amp;gt;”提示符&lt;/p&gt;
+    &lt;p&gt;输入bravo&lt;/p&gt;
+    &lt;p&gt;输入字母“i”启动文本插入（Insert）模式，或“a”启动添加（append）模式，或“a”启动添加（append）模&lt;/p&gt;
+    &lt;p&gt;然后就可以输入字符了&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Xerox的Alto电脑和它的软件对整个计算机行业产生了非常深刻的影响，包括比尔·盖茨，史蒂夫·乔布斯在内的许多个人电脑行业的开拓者们，都曾经参观过施乐的Alto电脑，并受其启发将Alto电脑上那些超前的功能重现在个人电脑上。1981年，微软雇佣了当年Bravo的开发者Charles Simonyi，并创造了当代文字处理软件的统治者——Microsoft Word。&lt;/p&gt;
+
+&lt;p&gt;最早的Word是在DOS下运行的，并没有所见即所得的功能。这一功能要到Macintosh版本的Word中才开始出现。我们可以在电脑博物馆里面试一下Word在Macintosh上的早期版本，你会发现相比文字界面中的字处理软件，Macintosh图形界面中的Word操作起来非常直观，可以在非常自如的去调整文字的效果，并且直接在屏幕上看到相应的变化。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_06.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_06.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行Microsoft Word&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=macplus&quot; target=&quot;_blank&quot;&gt;Macintosh Plus&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;待系统启动后，打开“HD 2”&lt;/p&gt;
+    &lt;p&gt;依次选择Apps-&amp;gt;Microsoft Word 4.0a-&amp;gt;Microsoft Word&lt;/p&gt;
+    &lt;p&gt;其操作与当代应用程序类似&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;如果说电子式显示屏对比机械打字输出来是文字处理的第一次革命，那么所见即所得功能就是文字处理的第二次革命。在Word出现之后的30多年的时间里，字处理器的交互再没有发生根本性的变革，大家可以尝试使用电脑博物馆里看其他的一些字处理软件，比如说像iWork的前身ClarisWorks，Geoworks上面的GeoWrite，当然还有金山WPS97，以及日本的PC98电脑上的一太郎，它们的操作逻辑都和Word大同小异。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_07.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_07.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行“一太郎”&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=pc9801vx&quot; target=&quot;_blank&quot;&gt;NEC PC-9801VX&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在系统启动出现提示时按Ctrl+F12启用鼠标&lt;/p&gt;
+    &lt;p&gt;按任意键进入系统界面&lt;/p&gt;
+    &lt;p&gt;一太郎中按ESC可以呼出菜单（类似金山WPS），其余的操作与现代电脑类似&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;在 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=maciichs&quot; target=&quot;_blank&quot;&gt;Macintosh II&lt;/a&gt;&lt;/b&gt; 里可以找到 &lt;b&gt;Word Perfect Work&lt;/b&gt;（另一个著名的文字处理软件Word Perfect的一个版本）和 &lt;b&gt;ClarisWorks&lt;/b&gt;（苹果iWork的前身），&lt;/p&gt;
+    &lt;p&gt;在 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=wps97&quot; target=&quot;_blank&quot;&gt;中文Windows 3.2和WPS 97&lt;/a&gt;&lt;/b&gt; 里可以找到 &lt;b&gt;WPS 97&lt;/b&gt;，&lt;/p&gt;
+    &lt;p&gt;在 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=geos&quot; target=&quot;_blank&quot;&gt;PC/GEOS&lt;/a&gt;&lt;/b&gt; 中可以找到 &lt;b&gt;GeoWrite&lt;/b&gt;，都可以试试看。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;桌面出版&quot;&gt;桌面出版&lt;/h2&gt;
+
+&lt;p&gt;第二个我觉得值得和大家分享的话题，是桌面出版的历史。桌面出版历史的并不是很长，它要晚于电子化的文字处理的历史。“桌面出版”（Desktop publishing，DTP）通常是指由非专业人员，使用较为廉价的个人电脑设备实现的排版。&lt;/p&gt;
+
+&lt;p&gt;在1980年代中期之前，操作电脑照排是一项专业性非常高的工作，一方面往往依赖于昂贵的专用电脑照排机，另一方面操作它们的用户也需要学习特定的脚本语言，比如说IBM的Script，以及一直到今天还在工程技术排版中广泛使用的TeX等等。&lt;/p&gt;
+
+&lt;p&gt;而桌面出版相关技术的出现使内容创作者可以自己去实现小册子或海报等印刷品的排版。其最早的实现同样出自于Xerox，1981年Xerox推出了Star工作站电脑，这款电脑有着非常精确的、所见即所得的排版功能。这是1981年的《InfoWorld》杂志的一个报道，照片中展示了电脑屏幕上的图文混排效果和通过激光打印机输出，跟电脑屏幕上保持了很高一致性的打印稿。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_08.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_08.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;但是Xerox的Star电脑最大的问题就是非常贵，它在1981年的价格是16,595美元，大概相当于今天的47,000多美元，因此直到80年代中期桌面出版仍然是一件非常曲高和寡的事情。桌面出版的成本真正降到可以接受的程度还要等到苹果Macintosh电脑出现之后，在它上面诞生了一款非常著名的软件叫PageMaker，这个软件后来成为了出版界的行业标准，许多人都用过它及其继承者Adobe Indesign。&lt;/p&gt;
+
+&lt;p&gt;PageMaker最重要的特点就是它使用了叫做PostScript的打印控制语言，我们这个技术让不同型号的打印机都可以输出一致的结果，这也是PDF文件的基础技术。即使脱离了纸面印刷的电子出版物，当它们使用PDF格式发行时，就也同样受益于其中的技术成果。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_09.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_09.png&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;PageMaker 2.0&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;网页里的电脑博物馆的Macintosh Plus中，安装有比较早期的PageMaker 2.0版；在Macintosh II里则有稍微新一些的PageMaker 4.0a版。大家都可以试用一下来感受其中的变化。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_10.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_10.png&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;PageMaker 4.0a&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;值得一提的是，苹果，Adobe以及被收购的PageMake的开发者Adlus所组成的“3A组合”虽然直到今天都是桌面出版市场上最重要的玩家，但并非是唯一的存在。在80年代中后期，随着图形界面的普及，桌面出版被许多提供图形界面的电脑开发商认为是推广图形界面电脑最重要的功能之一，比如说Atari ST曾是Macintosh最重要的竞争者之一，就也有软件开发商为它开发桌面出版软件，Linux平台上功能强大的桌面出版软件PageStream的前身Publishing Partner就诞生在Atari ST平台上。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_11.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_11.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行AtariST上的Publishing Partner&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在电脑博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=ataristmono&quot; target=&quot;_blank&quot;&gt;Atari ST（单显）&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;启动电脑之后，双击桌面上的Hard Disk图标&lt;/p&gt;
+    &lt;p&gt;打开PUBLISHM文件夹&lt;/p&gt;
+    &lt;p&gt;运行PUBLISHM.PRG&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;超文本&quot;&gt;超文本&lt;/h2&gt;
+
+&lt;p&gt;接下来的话题我想讲的是超文本（Hypertext），当今天大家提到超文本时往往都会想到网页。确实，网页应该说是目前超文本最常见的一种形式，它提供的链接、跳转都是超文本最典型的功能。&lt;/p&gt;
+
+&lt;p&gt;回顾超文本的历史，我们会发现其最初的概念和设想并非是计算机工程的产物，而是起源于某种文学创作的实践。1941年阿根廷作家豪尔赫·路易斯·博尔赫斯（Jorge Luis Borges）创作的小说《小径分岔的花园》中描述的那种主人公有面临着无数选择，而每个选择都被编写的故事，成为超文本中“链接”结构的最早启蒙之一。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_12.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_12.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;而另一个非常有意思的发明是范内瓦·布什 的论文《诚如所思》(“As We May Think”)里面提到的一个名为叫Memex的装置，这个装置是一个基于缩微胶片的信息索引系统，它并非电脑设备，但这种出于改善文档检索效率而设计的机械装置却构想了超文本类似的功能。&lt;/p&gt;
+
+&lt;p&gt;Hypertext这个词的第一次出现是在泰德·尼尔森的《计算机解放/梦想机器》（Computer lib/ Dream machines）书中，其中解释了Hypertext是一种非顺序的写作结构，与之同时书中也提出了超媒体的这个概念，其核心是存在多个分支的媒体内容组织。&lt;/p&gt;
+
+&lt;p&gt;在1970年代之后，计算机业界开发出了若干种超文本的实现，而在万维网（WWW）出现之前的超文本实现中其中最为有影响力的要数1987年诞生在Macintosh电脑上的HyperCard“超级卡片”。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_13.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_13.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;运行HyperCard&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;在网页里的电脑博物馆找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/emularity.html?machine=macii&quot; target=&quot;_blank&quot;&gt;Macintosh II&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;打开Macintosh HD&lt;/p&gt;
+    &lt;p&gt;打开HyperCard 2.3.5文件夹&lt;/p&gt;
+    &lt;p&gt;运行HyperCard程序&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在网页里的电脑博物馆的Macintosh II里面就安装有HyperCard，类似于万维网中的“网页/页面”概念，HyperCard的基本组织单位是卡片，通过卡片上的交互元素，观看者可以在卡片中跳转，也可以从一摞或一堆（stack）卡片，跳转到另外一摞卡片中去，就像在网站之间跳转一样。HyperCard被人们广泛使用，并影响了一系列万维网早期的开发者。比如说最早的万维网浏览器之一ViolaWWW的华人开发者魏培源就是受到了HyperCard的启发而开始开发浏览器的。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_14.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_14.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;而另外一个非常重要，但是却常被忽视的超级文本的实现是Windows的帮助文件，那么我们在Windows帮助文件里同样可以找到超链接跳转这样典型的超文本特性。在网页里的电脑博物馆的Windows 3.2模拟器里，可以翻阅早期的Windows帮助文件。&lt;/p&gt;
+
+&lt;p&gt;当然最重要的超文本形式还是万维网，在网页里的电脑博物馆里，大家可以看到最古老的www网页：The WWW Project。万维网出现之后得到了快速的发展，超越了以目录形式组织的Gopher成为了最被广泛使用的信息浏览工具，和最重要的互联网功能。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_15.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_15.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;大家可以体验一下目录形式组织的互联网信息服务Gopher，使用右上角的配色主题功能可以把它切换为非常复古的黑底绿字模式。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;&lt;a href=&quot;http://gopher.applinzi.com/&quot; target=&quot;_blank&quot;&gt;Gophper - 用现代浏览器浏览Gopher&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_16.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_16.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;在网页里的电脑博物馆，&lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/v86.html?machine=netscape&quot; target=&quot;_blank&quot;&gt;网景浏览器 4.08 (Win95)&lt;/a&gt;&lt;/b&gt;提供早期的WWW体验。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;快速发展的万维网技术很快具备了能够实现艺术作品的表现力。比如说1996年，奥莉雅·莉娅丽娜（Olia Lialina）的作品《我的男友从战争中归来》就是使用了当年最新的网页框架（frame）技术创作的交互艺术作品。虽然HyperCard也可以用来构建复杂的交互体验，如游戏《神秘岛》（Myst）就是使用HyperCard开发的，但www却具备HyperCard所没有的网络传输功能，可以按需下载要访问的内容而不需要全部下载到本地执行。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_17.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_17.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;文字冒险游戏&quot;&gt;文字冒险游戏&lt;/h2&gt;
+
+&lt;p&gt;如果说超级文本的出现刷新了文字创作者对内容组织和检索，而另外一群电脑爱好者、科学家，同时也是文字内容的创作者们则开始尝试将文本变得更加有交互性，这种尝试的结果就是文字冒险游戏。&lt;/p&gt;
+
+&lt;p&gt;早期的两个最重要的文字冒险游戏是1976年的Colossal Cave Adventure（巨洞冒险，时常被简称为“冒险”- Adventure）和1977年的Zork（魔域）（早期版本被称作“地牢”- Dungeon之后为避免“龙与地下城” - Dungeons and Dragons产生版权纠纷而改名），这两个游戏使用了大量的文本来描述故事的环境和情节，其中需要大量的阅读，但推进剧情的却需要远比文本和超文本更多的用户交互。&lt;/p&gt;
+
+&lt;p&gt;在单机文字冒险游戏的基础上，人们开发出它的线上版本MUD，也就是多用户地牢（Multi-User Dungeon），从名字上就可以看出它是与Zork之间的联系，它基本上继承了Zork的交互方式，但人类玩家在其中却不再孤独，而是可以和其他玩家进行交互。当MUD进入到了中文世界后，出现了非常重要的一个衍生作品就是出现于1995年的中文MUD《侠客行》，而它最初的开发者之一，正是中文世界里著名的“公知”方舟子。1996年开始运行的“北大侠客行”至今仍在运营，是中文网络游戏的“活化石”。&lt;/p&gt;
+
+&lt;p&gt;在网页里的电脑博物馆，通过PDP-11电脑模拟器，你可以非常“原汁原味”地体验《巨洞冒险》和《魔域》这两款70年代的文字冒险游戏，在模拟器里你可以观察到70年代小型机面板上闪烁的指示灯，并体验当年小型机所使用的的操作系统。当然你并不用感到害怕，它操作起来并不是很复杂，大家只要follow这个指南就可以了。&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip: &lt;/b&gt;
+    &lt;p&gt;&lt;b&gt;体验古老的文字冒险游戏：巨洞冒险 Adventure、魔域 Dungeon&lt;/b&gt;&lt;/p&gt;
+
+    &lt;p&gt;在电脑博物馆里找到 &lt;b&gt;&lt;a href=&quot;http://museum.ihonux.com:86/pdp-11/index.html&quot; target=&quot;_blank&quot;&gt;Digital PDP-11/70&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+    &lt;p&gt;点Reset，确定，重新启动电脑&lt;/p&gt;
+    &lt;p&gt;在“Disk Drive Controls”的第二组下拉列表中选中“RK0”和“RT-11 v4.0”&lt;/p&gt;
+    &lt;p&gt;点“RT-11 v4.0”旁边的Load，然后点RK0下面的Boot&lt;/p&gt;
+    &lt;p&gt;等待电脑启动，出现点提示符&lt;/p&gt;
+
+    &lt;p&gt;输入“R ADVENT”启动巨洞冒险&lt;/p&gt;
+    &lt;p&gt;输入“R DUNGEO”启动魔域&lt;/p&gt;
+    &lt;p&gt;在游戏中，使用HELP命令可以查看帮助&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_18.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/experience_the_technologies_that_change_writing_18.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;我今天的分享就要结束了，可能因为准备的不是很充分，所以很多东西只能粗略的讲过，在这里，我也很惊奇地发现，我所描述的，正是我现在所工作的“上下文”（context），当我写下这篇讲稿时，我使用的正是文字处理器，而网页里的电脑博物馆，本身也构建于超文本技术。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/133605117&quot;&gt;https://zhuanlan.zhihu.com/p/133605117&lt;/a&gt; 有删减&lt;/p&gt;
+
+</description>
+            <pubDate>Sun, 28 May 2023 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/experience_the_technologies_that_change_writing.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/experience_the_technologies_that_change_writing.html</guid>
+            
+            <category>experience</category>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>追寻ARM的起源——Acorn电脑简史</title>
+            <description>&lt;p&gt;译者注：在玩树莓派（Raspberry Pi）的过程中，总是会有意无意的接触到一款之前从未听闻的系统，RISC OS。而启发树莓派开发的，则是一款80年代的家用电脑BBC Micro，而这一切都是来自于昔日的英国IT巨人Acorn，而树莓派所使用的ARM处理器的发明者也是Acorn。作为一家企业的Acorn已经不再存在，但其遗产却仍深刻的影响着今天的IT行业。&lt;/p&gt;
+
+&lt;p&gt;许多时候，Acorn被称为“英国的苹果”，或是被认为是像仙童公司那样的创业催化剂。在2010年ZDNet上由David Meyer所列出的“十大陨落的IT巨人”，Acorn中排名第九。Acorn的产品是日后许多英国的IT专业人士的启蒙老师，相比美国硬件产品商业上的成功，Acorn的产品在技术上往往更胜一筹。&lt;/p&gt;
+
+&lt;h2 id=&quot;早期历史&quot;&gt;早期历史&lt;/h2&gt;
+
+&lt;p&gt;1961年7月25日，Clive Sinclair创办了Sinclair Radionics来进行例如计算器之类的电子产品开发和销售。后来，由于Black Watch电子表的失利，以及此时计算器由LED显示屏转向LCD显示屏的趋势，Sinclair Radionics公司遇到了严重的财政危机，Sinclair向全国企业委员会（National Enterprise Board，简称NEB）求助，但这使他失去了Sinclair Radionics的控制权。此后，Sinclair拉拢Chris Curry与之一起离开Radionics公司并创建了剑桥科学公司 （Science of Cambridge，简称SoC，之后更名为Sinclair Research）公司。1978年6月，SoC启动了一项名为Mk14的微型计算机项目，Curry希望继续参与MK14的开发，但他无法说服对此持不同意见的Sinclair，因此Curry从SoC离职。在Mk14项目的开发过程中，Curry的朋友Hermann Hauser在一次访问SoC办公室的过程中了解了这一产品并逐渐对此项目产生了兴趣。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_02.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_02.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;剑桥处理器公司1978-1983&quot;&gt;剑桥处理器公司（1978-1983）&lt;/h3&gt;
+
+&lt;p&gt;Curry和Hauser在1978年12月5日创办了剑桥处理器公司（Cambridge Processor Unit Ltd，简称为CPU））来实现他们的计划。不久CPU公司获得了一份技术咨询合同，威尔士的Ace Coin Equipment（ACE） 公司委托他们设计一款基于微处理器的赌博机控制器。ACE项目启动时的办公室就位于剑桥4a Market Hill。开始时该项目基于National Semiconductor的SC/MP处理器开发，但不久就改为使用MOS Technology的6502处理器。&lt;/p&gt;
+
+&lt;h3 id=&quot;微电脑系统&quot;&gt;微电脑系统&lt;/h3&gt;
+
+&lt;p&gt;CPU不想浪费在SC/MP上的投资，但又不想让CPU维护两条产品线，于是在1979年成立了Acorn Computer Ltd来负责SC/MP后续的开发和销售，基于SC/MP的Acorn System 75也就成了Acorn Computer Ltd的第一款产品。起名为Acorn（橡果）的寓意，是希望微电脑业务能像落地的果实那般生根发芽，而另外的一个缘由，则是Acorn Computer与Apple Computer在电话黄页上几乎可以排在一起，并且更靠前。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_03.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_03.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;几乎与此同时，CPU公司与Andy Hopper共同成立了一间名叫Orbis的新公司来将Hopper读博士期间的发明的Cambridge Ring网络系统商业化。但不久CPU公司决定将Hopper挖过来做经理，因为Hopper可以将CPU的产品推荐给剑桥大学计算机实验室。于是CPU公司收购了Orbis公司，并且将Hopper的Orbis公司的股份置换为CPU的股份。随着Acorn品牌的不断成长，CPU公司逐渐转变角色成为控股公司，而Acorn Conputer逐渐接手产品的开发工作。与此同时，Curry与Sinclair产生了分岐并正式离开了Science of Cambridge，但他并没并没有立即加入Acorn，而是在稍晚才成为CPU的雇员。&lt;/p&gt;
+
+&lt;p&gt;由Sophie Wilson开发的Acorn Computer，即后来的Acorn System 1，是一款为工程和实验室用户设计的半专业计算机系统，有着非常低廉的售价（时价约80英镑），同时这款产品也吸引了许多热爱钻研的计算机发烧友。Acorn System 1是一款非常小巧的微型计算机，主要由两块板卡组成，一块上面包括LED显示、键盘和磁带接口，另外一块包括中央处理器等其它计算机部件，几乎所有的处理器信号都通过Eurocard接口进行连接。&lt;/p&gt;
+
+&lt;p&gt;System 2将System 1 上的CPU放在一个19英寸的EuroCard支架上，从而使系统可以支持更多的选配件，大大增强了系统的扩展性。System 2一般包括一个键盘控制器、一个外置键盘、一个文本显示接口，以及一个包含了BASIC解释器的磁带操作系统。&lt;/p&gt;
+
+&lt;p&gt;System 3 增加了对软盘的支持，System 4有着更大的外壳，和第二个部软盘驱动器，System 5与System 4基本相同，但将CPU升级为新款的2MHz 6502处理器。&lt;/p&gt;
+
+&lt;h3 id=&quot;atom原子&quot;&gt;Atom（原子）&lt;/h3&gt;
+
+&lt;p&gt;Science of Cambridge在1979年5月开始启动Sinclair ZX80计算机的设计。可能是受此影响，Curry计划启动面向消费市场的Atom项目。Curry和另外一个设计者Nick Toop在Curry位于Fens的家里开始Atom的开发工作。此时Acorn Computer已经完成合并，Curry也开始在Acorn全职工作。&lt;/p&gt;
+
+&lt;p&gt;虽然Curry想进军消费市场，但包括工程师们在内的Acorn的另外一派，则希望远离消费市场，他们认为一个致力于实验室设备领域的计算机公司生产家用电脑会对公司形象造成不利影响。为了降低成本并说服对Atom持怀疑态度的公司成员，Curry请工业设计师Allen Boothroyd设计了一款同时可以作为Acron System电脑外置键盘的Atom电脑外壳。然后将System 3的内部元件放到键盘里面，就构建起一款在80年代早期非常典型的廉价家用电脑Acorn Atom，Atom的市场表现相当不错。与此同时，代号Prophet（质子）的商用电脑也推向了市场。&lt;/p&gt;
+
+&lt;p&gt;为了加速软件开发，他们还在Market Hill建造了一个专用的局域网Econet。后来Econet支持被内建在Atom计算机中，在1980年3月的一次计算机展览上，8台联网的Atom演示了文件共享，和远程操作等功能。&lt;/p&gt;
+
+&lt;h3 id=&quot;bbc-micro和electron电子&quot;&gt;BBC Micro和Electron（电子）&lt;/h3&gt;
+
+&lt;p&gt;在Atom上市之后，Acorn计划推出更新型的16位处理器产品来替代8位的Atom。经过意见纷耘的讨论之后，Hauser提出了一个折衷方案——一款具有极大扩展能力的基于6502的计算机：Proton。Acorn的技术人员一直都不怎么待见Atom，而这一次，他们认为终于有机会做“正确的事情”。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_01.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_01.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;质子项目的一个开发提议是Tube，一个可以扩展第二颗处理器的专用接口。这样，面向大众市场的6502机型就可能扩展更高级也更贵的处理器。Tube可以将数据处理的任务交给第二颗处理器，而6502则更多地进行IO方面的工作。Tube在后续的Acorn处理器开发中也起到了重要的作用。&lt;/p&gt;
+
+&lt;p&gt;在1980年初，BBC的继续教育部门曾设想推出一些计算机普及节目，这一设想成为了后来的一部ITV纪录片，《Mighty Micro》，在此片中，来自英国国家物理实验室的Christopher Evans博士预测了即将到来的微电脑革命。此纪录片带来了巨大的社会影响，以至于成为议会对此提出了一系列问题，并由此引发了英国工业部对此节目的兴趣。同时BBC企业集团也看到了与此节目一同销售电脑的商机，BBC工程公司授命起草一份适合于此节目配套的电脑规格。&lt;/p&gt;
+
+&lt;p&gt;因为英国工业部要求选用国产电脑的压力，BBC最终选择了Newbury Laboratories生产的NewBrain电脑。这一选择也表明了名义上独立的BBC其实也面临着来自政府的压力，Newbury是一家隶属于全国企业委员会（National Enterprise Board）的官办企业，并与工业部有着密切的合作关系。这一选择也颇具讽刺意味，NewBrain项目最初是作为Sinclair Radionics的开发项目，而Sinclair希望在Science of Cambridge开发MK14的决定，则是导致Curry离开SoC公司并Hauser一起成立CPU公司的最初起因。在Sinclair离开Radionics并加入Soc之后，NewBrain项目被国家企业委员会转移到Newbury名下。&lt;/p&gt;
+
+&lt;p&gt;在1980年到1982年间，英国科教部（Department of Education and Science - DES）启动了微电子教育计划，借此来推广微处理器的概念与教材。从1981年到1986年间，在工业部的资金支持下，英国本土的教育主管部门开始向学校提供一系列电脑设备，BBC Micro则成为当时最受欢迎的电脑设备之一。在该计划中，学校可从BBC Micro，ZX Spectrum或者Research Machines 308Z三款电脑中选择一款半价购进。于此同时，科教部还另外追加投资，用以提供更多的电脑器材，包括软件、计算机应用项目，以及教师培训课程。&lt;/p&gt;
+
+&lt;p&gt;虽然Newbury在NewBrain上投入了大量的开发资源，但很快他们就宣布他们并不打算生产NewBrain，也就是说无论是科教部的电脑普及计划，还是BBC的电脑规格，都无法按期完成。BBC的纪录片原定于1981年秋季放映，因此也被推迟到1982年春季。BBC为此开始接受其他生产商提供建议方案，而Curry和Sinclair也在此时了解到BBC的计划。BBC的人员在参观Acorn公司并观看了Proton的演示之后不久，与Acron公司签订了生产普及型电脑的合同，Proton被命名为BBC Micro并于1981年12月发布。1984年4月，由Acron生产的BBC Micro获得了女王科技奖（Queen’s Award for Technology），并赞扬Acron“在开发微电脑系统的同时创造了许多新功能”。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_04.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_04.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;1982年4月，Sinclair发布了ZX Spectrum，Curry构想推出Electron（电子）电脑来竞争200英镑以下的廉价电脑市场。此设计在很多方面都像是BBC Micro的精简版。Electron使用了一块Acorn设计的自由逻辑阵列（ULA）来还原大部分的功能，但在投产时却遇到了ULA供货短缺的问题，虽然1983年八月Electron就已经开始销售，但是直到1983年的圣诞促销季Electron的供货量仍然无法满足需求。Acron在1984年解决了ULA产能的问题，并获得了新的生产合同。因为Electron的种种曲折，使之无法超越BBC Micro model B的知名度。&lt;/p&gt;
+
+&lt;p&gt;2008年，英国电脑保护协会在伦敦科学博物馆举办了一场纪念BBC Micro的活动，一些BBC Micro当年的创造者也参与了这次活动，Sophie Wilson讲述了Hermann Hauser当年如何欺骗了她和Steve Furber同意在不到五天的时间内制造出一台实体原型的故事。此外在2008年一些前员工也组织了纪念Acorn成立30周年的活动。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_05.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_05.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;19831985-acorn-电脑集团&quot;&gt;1983–1985: Acorn 电脑集团&lt;/h2&gt;
+
+&lt;p&gt;BBC Micro的销售非常顺利，依靠BBC Micro的销售Acorn的利润从1979年的3000英镑飙升到1983年六月的860万英镑。在1983年9月，在清算CPU公司的股份后Acron以Acorn Computer Group plc身份进入未上市证券市场，而以Acorn Computers Ltd作为其微电脑部门。其最低投标价为120英镑，使该集团拥有了1亿3500万英镑市值，剑桥处理器公司的创始人Herman Hauser和Chris Curry在新公司中拥有的股票价值则分别为6400万英镑和5100万英镑。&lt;/p&gt;
+
+&lt;h3 id=&quot;新的risc架构&quot;&gt;新的RISC架构&lt;/h3&gt;
+
+&lt;p&gt;早在开发Atom之时，Acorn就曾经思考过6502处理器之后的发展路径，在1985年时基于65816处理器开发的16位Acorn Communicator就是其中的一个例子。&lt;/p&gt;
+
+&lt;p&gt;1981年8月12日，IBM PC正式发布，虽然IBM发布过类似BBC Micro这样针对电脑爱好者的机型，但是IBM PC真正擅长的领域却是商用市场。1983年初IBM推出了PC的后续型号XT （eXtended Technology），同样在商用市场上获得了不错的反响，而其他厂商推出的一系列基于Z80处理器和CP/M操作系统的电脑也在商用市场上展露头角。商用机市场的可行性及高溢价让Acron认为进入商用机市场的时机已到，Acron计划基于已有的技术开发其商用电脑方案，其设计中的工作站电脑包括了BBC Micro主板，Tube接口和用以支持CP/M，MS-DOS和Unix（Xenix）的第二块处理器芯片。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_06.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_06.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acorn Business Computer设计方案需要使用第二块处理器与BBC Micro平台协同工作，Acorn也因此需要在选用的每种处理器上实现Tube协议，在1983年他们仍然没有发现合适的处理器来接替6502芯片。因为需要使用到许多多周期不间断指令，举例来说，摩托罗拉68000处理器的中断响应速度很慢，因此在BBC Micro的6502处理器上很容易处理的通信协议，68000却无法正确处理。基于国家半导体32016芯片的Acorn Business Computer 被命名为剑桥工作站，此机型于1985年开发完成并上市（使用Panos操作系统）。在1986年的广告中，展示了此工作站在办公场合中的使用。并宣称只需3480英镑（不含税）便可获得类似大型主机的强大功能，广告中的文字内容则提到此工作站可以使用大型主机所使用的编程语言，通信功能，并提到作为替代选项，也可以使用协处理器将BBC Micro升级为工作站。这台机器最终表现出来的性能让Sophie Wilson和Steve Furber认识到内存带宽的重要价值，同时4Mhz的6502处理器也大大限制了8Mhz 32016处理器性能的发挥。Apple Lisa的上市让Acorn的工程师们认识到他们需要开发一款窗口化的系统，而不是简单的使用2~4Mhz的6502系统实现图形功能，Acorn需要迁移到新的架构。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_07.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_07.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acorn调查了市面上所有现成的处理器试图从中找出合适的候选者，但在他们测试完所有的处理器后，仍然没有发现适合他们的产品。Acorn决定创建一款新的架构，在伯克利RISC项目白皮书的起发现，Acorn正式决定设计他们自己的处理器。他们参观了凤凰城西部设计中心（Western Design Center），正是在西部设计中心，6502处理器由单人公司高效的设计并更新着，Acorn的工程师Steve Furber和Sophie Wilson意识到设计处理器并不需要太多的资源和尖端的研发设施。&lt;/p&gt;
+
+&lt;p&gt;Sophie Wilson开始着手研发指令集，以BBC Basic编写模拟器并将其运行在一台装备有第二块6502处理器的BBC Micro上。这将说服Acorn的工程师们这将是正确的出路。当然在他们继续接下来的开发之前，他们必须等待更多的资源，此时Wilson需要向Hauser解释接下来的计划，一旦开发计划被批准，将会成立一个新的小组并将Wilson的原型以硬件的形式实施出来。&lt;/p&gt;
+
+&lt;p&gt;1983年10月，Acorn RISC Machine计划正式开始，到1987年，Acorn已经位置花费了500万英镑。而曾为Acorn提供ROM和定制芯片的VLSI Technology, Inc则被选为半导体合作伙伴。1985年4月26日，VLSI生产出第一片ARM芯片，被命名为ARM1。ARM1最初的用途是用来作为BBC Micro的协处理器运行芯片开发所需的仿真软件，它曾被用于支持芯片 （VIDC, IOC, MEMC）的开发，以及加速ARM2开发时所用到的CAD软件。开发者可以通过ARM评估系统试用这款新的处理器，于BBC Micro和PC兼容的开发系统也在规划之中。ARM的广告宣传更加针对技术专家而非消费和教育市场，在广告正文中用大量文字列出了详细的技术规格。Wilson随后以ARM汇编语言重新编写了BBC Basic解释器，因为Wilson对在设计指令集时的深入了解，ARM版BBC Basic的代码十分紧凑，也是其成为测试ARM模拟器的极佳工具。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_08.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_08.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在ARM处理器开发计划的背后，1985年Olivetti控股Acron的谈判也在秘密进行着，这一切并没有告知开发团队，直到谈判结束之后。1992年，Acorn的ARM处理器再次获得女王科技奖。Acorn RISC OS操作系统的开发也在此时达到顶峰，操作系统开发员工达到200人。Acorn C/C++也在此时通过商业渠道发行给给开发者，用来编译自行开发的应用程序。&lt;/p&gt;
+
+&lt;h3 id=&quot;资金问题&quot;&gt;资金问题&lt;/h3&gt;
+
+&lt;p&gt;1984年是Acorn转折性的一年，在这一年上市的Acorn面对的是其家用电脑产品需求的崩溃。在这一年中Atari被出售，苹果电脑濒临破产，Acorn则被其持续的产能问题所困扰。&lt;/p&gt;
+
+&lt;p&gt;Acorn Electron在1983年就已上市，但由于ULA的供货问题，Acorn无法充分利用1983年圣诞节的促销季，即使成功的营销活动和电视广告赢得了30万份订单，但马来西亚的供货商只能提供3万台机器，市场对Electron的强烈需求终成泡影，家长们购买Commodore 64和ZX Spectrums作为孩子们的圣诞礼物。1984年Ferranti解决了产能的问题使产量达到预期，但是Acorn与供应商的合同却没有提供足够的灵活性以应对销售量骤减的情形，大批Electron陆续交货，而Acorn的困境则由此开始，大约有25万台Electrons被挤压在仓库中，而他们不得不支付一笔额外的仓储费用。&lt;/p&gt;
+
+&lt;p&gt;在这一阶段Acorn还花费了大量资金储备用于新产品的开发，BBC Master在此时刚刚开发完成，ARM项目则正在进行中，Acorn Business Computer花费了大量的开发工作，但最终也打了水漂，只有基于32016处理器的版本上市销售（以剑桥工作站的名字）。试图获得美国联邦政府批准，将BBC Micro推向美国市场的工作则被证明是一个漫长、昂贵且徒劳的过程。所有与BBC Micro一同销售的产品都需要减少电磁辐射水平并通过相关测试。MMC Micro在美国的运营大概花费了2000万美元，NTSC制式的BBC Micro的销售却一直不见起色。唯一值得欣慰的是BBC Micro在1984年的电影《女超人》中得以亮相。&lt;/p&gt;
+
+&lt;h2 id=&quot;19851998-归于olivetti旗下&quot;&gt;1985–1998: 归于Olivetti旗下&lt;/h2&gt;
+
+&lt;p&gt;严峻的财政状况一直持续到1985年2月，此时已经有一位Acorn的债权人提出了清盘申请。在短暂的协商后，Curry和Hauser在2月20日与意大利电脑公司Olivetti签署了股权转让协议，将49.3%的Acorn股份以1200万英镑转让给Olivetti，这挽回Acorn之前六个月高达1100万英镑的损失。此次收购中Acorn的估值仅为2500万英镑，较巅峰时的1亿9000万英镑相比缩水了1亿6500万英镑。1985年9月，Olivetti曾一度持有79%的Acorn股份，1996年7月，Olivetti宣布出售14.7%的股份给雷曼兄弟，并将自己持有的股份减少到31.2%。雷曼兄弟表示，计划转售股份给其他投资者。在完成收购的同时（1985年12月），Acorn用户杂志在其新闻栏目中公布了面向OEM客户的“Communicator”电脑。作为Acorn对国际电脑（International Computers Limited，简称ICL）“One Per Desk（每张书桌）”倡议的回应。Acorn Communicator电脑配备有16位的65SC816处理器，标配128K内存，并可以升级到512K，以及额外依靠电池供电的非易失性内存。Communicator具有多任务操作系统，四个内置ROM插槽，并预装有基于“视图”的软件。另外，Communicator还有电话功能、配套的通信软件和带有自动应答、自动拨号功能的调制解调器。&lt;/p&gt;
+
+&lt;p&gt;1986年2月，Acorn宣布停止美国市场的销售，并将剩余的美版BBC微电脑以125万美元的价格销售给Datum的子公司，位于德克萨斯的“Basic”，“Basic”原是一家墨西哥制造商，生产西班牙语版本的BBC微电脑（配备有针对南美市场改装的西班牙语键盘）。同事Acorn关闭了他们在马萨诸塞省温本（Woburn）市的销售办公室。&lt;/p&gt;
+
+&lt;h3 id=&quot;bbc-master和archimedes阿基米德&quot;&gt;BBC Master和Archimedes（阿基米德）&lt;/h3&gt;
+
+&lt;p&gt;1986年2月发布的BBC Master是一款相当成功的产品，在1986年到1989年间，Acorn总共卖出了20万台BBC Master，这款售价为499英镑的机型主要面向英国的学校用户发售。在此之后BBC Master的一系列改进型也陆续推出，比如Master 512，配备有512KB内存和80186处理器，并与MS-DOS系统兼容，而Master Turbo则装备有65C102作为第二颗处理器。&lt;/p&gt;
+
+&lt;p&gt;第一款ARM架构的商用产品是ARM开发系统，可以作为第二颗处理器通过Tube接口连接到BBC Master上来为新的系统编写程序。ARM开发系统售价4500英镑，包括了ARM处理器，4MB内存，一系列开发工具，以及增强版本的BBC BASIC。Archimedes系统包括三块重要的辅助芯片：VIDC，MEMC和IOC，而ARM开发系统里并没有包括他们。这三块芯片最早出现在一款外形与ARM开发系统类似的开发平台，仅在Acorn内部使用的A500附加处理器中。&lt;/p&gt;
+
+&lt;p&gt;基于ARM的第二款产品是1987年发布的Acorn Archimedes台式电脑是，它比IBM的RISC电脑PC/RT晚了18个月，却是第一款使用RISC处理器的家用电脑。Archimedes在英国、澳大利亚和爱尔兰都很流行，并且其功能也要比当时的大多数家用电脑都产品强大很多。Archimedes在平面媒体和电视媒体都有投放广告，其中有一版广告展示了RISC OS 2系统的桌面设计图，展示了应用程序目录软件，以及添加在窗口中的广告文字。不过，绝大多数的家庭用户仍然选择购买Atari ST或者是Commodore Amiga来升级他们老旧的8位微机，而Archimedes则更多的被用于学校和教育环境。不过短短几年后的90年代初，微电脑市场就逐渐进化为由PC主导的世界。Acorn仍然继续生产Archimedes的升级机型，包括一款笔记本（A4）及1994年推出的Risc PC，最高级的型号曾经安装有超过200Mhz的Strong ARM处理器，教育用户、技术专家和发烧友是这一阶段Acorn电脑的主要购买者。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_09.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_09.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;arm公司&quot;&gt;ARM公司&lt;/h3&gt;
+
+&lt;p&gt;VLSI，在作为Acorn半导体合作伙伴的同时，也一直在负责为ARM处理器即支持芯片寻找更多的应用途径。Hauser的Active Book公司开开发了一款新的手持设备，而ARM处理器的开发者们则位置开发了ARM处理器的静态版本，ARM2aS。&lt;/p&gt;
+
+&lt;p&gt;苹果先进技术小组成员与Acorn的接触，开始于一款外形类似与Apple II，名叫Möbius的原型机开发计划。Möbius实验最终得到的结果是，ARM RISC架构对于未来某些特定的产品非常具有吸引力。苹果曾经考虑将Möbius作为他们未来电脑产品的基础，但因为害怕与自家的Macintosh电脑竞争并导致市场定位不清，很快Möbius计划就被放弃。Möbius团队对ARM处理器的寄存器做了少许改动，而他们的工作原型也在诸多基准测试中展示出惊人的性能。&lt;/p&gt;
+
+&lt;p&gt;后来，苹果开始为Newton开发一种全新的计算平台，新的平台在耗电量、成本和性能上提出了许多新的要求，并且要求该平台可以全静态操作，而时钟可以在任何时间停止，在当时只有Acorn RISC Machine能够几乎满足这些要求。但此时的ARM仍有一些不足之处，比如说设计需要集成的内存管理单元，而之前内存管理功能一直是由MEMC支持芯片提供，Acorn并没有足够的资源将这一功能集成进ARM处理器。&lt;/p&gt;
+
+&lt;p&gt;苹果和Acorn开始合作开发ARM处理器，并决定成立一家新公司来完成他们的开发计划。1990年11月，之前开发ARM处理器的Acorn先进研发部门从Acorn分离出来，并在此基础上成立了ARM公司，1996年时，Acorn集团和苹果电脑公司各占ARM股权的43%，而VLSI既是ARM的投资者，也是低一个获得ARM授权的芯片厂商。&lt;/p&gt;
+
+&lt;h3 id=&quot;acorn-pocket-book&quot;&gt;Acorn Pocket Book&lt;/h3&gt;
+
+&lt;p&gt;1993年Acorn决定贴牌销售Psion Series 3 PDA，命名为Acorn Pocket Book，晚些时候又推出了Acorn Pocket Book II，Pocket Book基本上相当于预装的软解略有不同的Series 3，而其市场定位是针对学童的廉价电脑，而非商务工具。从硬件上，Pocket Book与Series 3没有不同，而预装的应用程序却不一样，比如说Pocket Book没有内置日历和日记应用，而将其作为选装软件通过软盘提供。另外一些程序则被重新命名： “系统” 改名为 “桌面” ， “文字” 改名为 “书写器” ， “试算表” 改名为 “算盘” ， “数据” 改名为 “卡片” 。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_10.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_10.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;机顶盒&quot;&gt;机顶盒&lt;/h3&gt;
+
+&lt;p&gt;1994年Acorn成立了新的分公司Online Media，成立Online Media则是为了能赶上当时视频点播（VOD）的热潮，新的交互电视系统使用户可以通过网络点播视频节目。1995年9月，Online Media搭建了用于剑桥数字互动电视实验所需的视频点播服务。英吉利电视、剑桥有线（现在是维珍媒体的一部分）和高级通信模块公司（ATML）试验通过建立广域ATM网络将电视公司和订阅电视服务的家庭连接起来，从而提供包括远程购物、在线教育、软件点播和万维网服务在内的多种信息服务。这一广域网使用光纤与同轴电缆混合的形式架设，其交换机安装在剑桥有线既有网络的路边接线箱中。Olivetti研究实验室是Hauser和Hopper成立的另一家公司，他们负责开发测试所需的一项新技术，使ICL生产的视频服务器能够通过ATML的ARM交换机提供服务，这项测试开始时提供2Mbit/s的入户带宽，并逐步增加到25Mbit/s.&lt;/p&gt;
+
+&lt;p&gt;这项测试中，订户使用的是Acorn Online Media机顶盒。测试开始的六个月使用到10个VOD终端；第二阶段则将覆盖面扩展到100户家庭和8个学校，一共在实验室中使用了150台终端。其他的一些组织也在这时加入进来，包括国民威斯敏斯特银行，英国广播公司，邮局，乐购和当地教育主管部门。&lt;/p&gt;
+
+&lt;p&gt;BBC教育部测试提供广播内容点播给中小学校，作为一项新的服务。教育在线也在这时成立，提供开放大学电视节目和教学软件等内容。Netherhall学校则得到一台便宜的视频服务器，并作为测试服务内容提供商运营这台服务器。随后安格利亚工业技术大学也以相似的角色加入此项目。人们希望Online Media能够逐渐成为一家独立的公司，1995年，Online Media发行股票并筹集到更多的资金，但预期中的视频点播热潮却从未真正到来。&lt;/p&gt;
+
+&lt;h3 id=&quot;newspad&quot;&gt;NewsPad&lt;/h3&gt;
+
+&lt;p&gt;1994年欧盟发起NewsPad项目，致力于开一套通用的机制，用于新闻的创作和发行，以及将新闻电子化的发布到用户的设备。该项目的命名和格式则是受到亚瑟·克拉克与史丹利·寇比力克1968年所发行的电影《2001：太空奥德赛》的启发。Acorn赢得了开发消费设备和接收器的合同，并提供了一款基于RISC OS的触摸屏平板电脑作为试验。这款设备的尺寸为8.5x11英寸（220x280cm），从1996年开始在西班牙的Ediciones Primera Plana试用，在巴塞罗那的试点仅仅持续到1997年，但平板电脑的样式和ARM处理器架构的影响力则可能一直延续到1999年Intel公布的WebPad/Web Tablet计划中。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_11.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_11.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;xemplar教育&quot;&gt;Xemplar教育&lt;/h3&gt;
+
+&lt;p&gt;1996年，Acorn和苹果电脑英国分公司共同签订了一项名为Xemplar和合资计划，此计划希望向英国的教育市场提供电脑及相关服务。1998年的一项调查发现苹果和Acorn电脑在当时的英国小学和中学中，分别占47%和三分之一。1999年，Acorn以300万英镑的价格将其剩余的Xemplar股份出售给苹果，而Xemplar也重新命名为Apple Xemplar Education直到2014年结束运营。Acorn教育和后来的Xemplar教育都曾经积极的参与乐购在英国的“Computers for Schools”计划，从乐购购物时所收集的优惠券，也可以通过这项计划交换成电脑硬件或软件。&lt;/p&gt;
+
+&lt;p&gt;威尔士办公室多媒体与移动设备计划（Welsh Office Multimedia/Portables Initiative - WOMPI）开始于1996年，这其中规定了选择多媒体选项的威尔士学校会收到由RM独家提供的多媒体电脑。这妨碍了其它供应商及全国计算机教育顾问委员会的工作。&lt;/p&gt;
+
+&lt;h3 id=&quot;网络计算机&quot;&gt;网络计算机&lt;/h3&gt;
+
+&lt;p&gt;1995年，BBC2台在《The Money Programme》中播出了Larry Ellison的采访，Acorn Online Media的执行总监Malcolm Bird意识到埃里森所表述的网络计算机基本上就是一台Acorn机顶盒。在甲骨文公司于Olivetti、Hauser以及Acorn进行最初的讨论之后，Bird带着Acorn的最新款机顶盒被派往旧金山。在此之前，甲骨时已经认真的与包括Sun和苹果在内的电脑生产商探讨过将各自的NC原型机进行合并的合同。业内也有传言说，甲骨文希望自行开发参考设计。在Bird到访甲骨文之后，Ellison也访问了Acorn并于Acorn达成一笔新的交易：由Acorn来定义NC参考标准。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_12.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_12.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ellison希望能够在1996年2月发布NC，而在Acorn，NC由Sophie Wilson负责，到1995年月中，NC标准草案准已备就绪。1996年1月，Acorn和Oracle之间和合同细节也已敲定，产品PCB设计完成并随时可以投产。1996年2月，Acorn Network Computing成立，1996年8月，他们发布了Acorn Network Computer。人们希望网络计算机可以打开一片广阔的新市场，而Acorn Network Computing将成为这一市场的主角，无论是销售自家的产品，还是从其他制造NC厂商所支付的授权费中获利。为此，Acorn的两大项目都围绕着新的“消费设备”操作系统展开，Digital半导体则于ARM一起开发名为Galileo的新款StrongARM芯片，包括SA-1500和SA-1501两款产品。Galileo的主要特点是为系统中的各种资源（CPU、内存等等）提供服务质量保证（QoS），以确保每个进程的资源不受其他进程的干扰。SA-1500芯片的亮点除了比现有StrongARM更高的时钟频率外，更重要的是其媒体协处理器（Attached Media Processor或称AMP）。随着SA-1500的推出，Galileo第一阶段的目标宣告完成。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_13.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_13.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在将机顶盒和NC业务拆分成独立的公司之后，Acorn又成立了一家新的分公司——Acorn RISC Technologies(ART)来开发基于ARM处理器的软件和硬件技术。&lt;/p&gt;
+
+&lt;h2 id=&quot;19982000-element-14&quot;&gt;1998–2000: Element 14&lt;/h2&gt;
+
+&lt;p&gt;1998年上半年，Acorn的管理层都在积极运作ARM Holding plc的首次公开募股，这次募股在1998年一年中为Acorn带来了1800万英镑。Stan Boland在1998年6月接替之前的David Lee，开始担任Acorn Computer的CEO，并开始对Acorn核心业务进行审查。&lt;/p&gt;
+
+&lt;p&gt;1998年9月，审查结果显示公司在前九个月损失了900万英镑，这一结果导致了公司的大重组。为了减少损失，工作站部门被关闭，人员减少了40%，代号为Phoebe的的Risc PC 2项目也在接近完成之时取消。Acorn决定集中力量在两个方面：其一是数字电视市场开发机顶盒；其二是开发高性能媒体DSP芯片和软件。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_14.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_14.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;为了专注于这两项业务，Acorn聘请了一批来自意法半导体的芯片设计工程师，并以这批工程师为核心，花费200万英镑在布里斯托尔成立了新的芯片设计中心。Acorn同时开始转让之前在工作站市场中的利益，Eidos的创始人仅用50万英镑就获得了PC系列的授权。10月，他们将现有机型的销售权以及工作站渠道的供货权转让给Castle Technology。第二年1月Acorn将自己在Xemplar Education所占的50%股权卖给苹果电脑，同年三月，RISCOS Ltd购得开发和发行RISC OS的许可。&lt;/p&gt;
+
+&lt;p&gt;1999年1月，Acorn Computers Ltd改名为Element 14有限公司（仍由Acorn Group plc控股），这一变化反映出企业的性质已经发生转变，并于当年Acorn Computers知名度最高的教育市场保持距离。公司曾经考虑过改用其他名称，但http://e-14.com的网址在改名计划公布前就已经注册。&lt;/p&gt;
+
+&lt;p&gt;在此期间，ARM Holding的股价一路飞涨，而Acorn Group公司在ARM所占的24%股份的价值已经超过了Acorn Group的资产总额，这种状况导致Acorn的股东们要求Acorn出售其在ARM Holdings的股份以收回投资。&lt;/p&gt;
+
+&lt;p&gt;摩根斯坦利添惠集团（Morgan Stanley Dean Witter Group）新成立的MSDW投资控股有限公司在1999年的5月向Acorn Group plc的股东们提出一项换股方案，将股东手中每5股Acorn Group股票置换为两股ARM股票。股东们接受了这项提议，1999年6月1日，MSDW以2亿7000万英镑的价格收购了Acorn Group。这次交易使Acorn Group plc从证券市场退出，而Acorn所持有的ARM股票则被分配给Acorn之前的股东们。&lt;/p&gt;
+
+&lt;p&gt;作为MSDW收购方案的一部分，机顶盒部门（大概有30个员工）被以209,000英镑出售给Pace Micro Technology，而DSP业务则在1999年7月26日被MSDW以150万英镑净资产的价值由Stan Boland买断。&lt;/p&gt;
+
+&lt;p&gt;新独立出来的Element 14则试图吸引风险投资，之后获得了来自于Bessemer Venture Partners， Atlas Ventures和 Herman Hauser的Amadeus Capital Partners共计825万英镑第一轮投资。&lt;/p&gt;
+
+&lt;p&gt;2000年2月Element 14的猎头成功的招募到一批来自阿尔卡特的资深数字用户线路（DSL）工程师，其中包括模拟前段和数字IC设计师，以及精通非对称DSL（ADSL）和超高速DSL（VDSL）的xDSL调制解调器软件专家。他们还一同收购了位于比利时梅赫伦的工程中心。这反应了公司的方向从媒体转向到DSL市场。&lt;/p&gt;
+
+&lt;p&gt;之后Element为像加拿大NBTel这样的电信公司开发了使用普通电话线的IPTV系统，并继续开发DSP产品直到2000年11月，Element 14被Broadcom以3亿6600万英镑收购成为其DSL业务部门。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_15.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/a_brief_history_of_acorn_computers_15.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20498012&quot;&gt;https://zhuanlan.zhihu.com/p/20498012&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Sun, 01 Oct 2017 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/a_brief_history_of_acorn_computers.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/a_brief_history_of_acorn_computers.html</guid>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Amiga电脑传奇（四）</title>
+            <description>&lt;h2 id=&quot;1998第二期目标协助开发基于开放标准的新产品&quot;&gt;1998：第二期目标——协助开发基于开放标准的新产品&lt;/h2&gt;
+
+&lt;p&gt;在1997年底的时候形势看起来还是一片大好，一方面Amiga支持现有产品的供应，另一方面实现对未来Amiga市场的承诺。但事情的真相却不是那么尽如人意，Amiga Inc.网站在1998年新年的那天发布了一则公告，宣布未来的Amiga产品将基于68K+PPC的混合方案推出。这正是Phase 5的PowerUP扩展卡已经实现的方案。让人怀疑之前计划中高速PowerPC机型的真实性。之后由Index Information Ltd, Blittersoft及Phase 5共同为Boxer机型开发的PPC扩展卡正式发布，让人们认为Amiga对混合68K和PPC的方案就是Amiga官方所认定的升级路径。3月10号，Phase 5发布了授权搭载Amiga OS的Pre/Box，这台兼容Amiga OS 3.1的新电脑装备有一颗68k处理器和4颗PowerPC处理器，可以实现高速的图形渲染。不过Amiga Inc.的高级工程师Joe Torre却发表声明说他们并没有授权类似的计划。同时HiQ (也就是之后的Siamese Systems)也公开了正在开发中的Alpha计划，此计划试图将Amiga OS移植到Alpha处理器，类似于Quickpak在去年也提出过的类似想法。在当时，Alpha处理器是市面上最快的处理器之一，对于侧重于多媒体功能的Amiga来说的确是不错的选项。当时还有计划将Amiga电脑集成到一块扩展卡上，被称作Inside Out（稍后改称为Siamese PCI）。虽然类似的计划从Escom时代开始就开始酝酿，但直到Siamese公开之后才得到证实。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_33.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_33.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;（图为Inside Out，浅色大芯片为Motorola 68K处理器）&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;此时的软件市场也格外活跃。随着Doom和Descent（天旋地转）被陆续开源，一系列移植版本出现在Amiga平台上。Myst（神秘岛）此时已经公开发行，而Quake的官方移植也列入日程。虽然Quake发布之前的漫长等待仍然是值得的，但是由于最终版本缺乏对PowerPC处理器的支持，很多玩家仍然选择下载非法移植的版本（如FastQuake等）。而网景浏览器宣布开源也让将其移植到Amiga平台的讨论开始出现。在几个月的等待之后，FreeAmiga接下了这项艰巨的任务。在经历了长时间的冷遇之后，Amiga平台终于开始吸引新软件填补之前留下的空白了。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_34.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_34.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在另外一则消息中，“Gateway 2000”改名为更为简短的“Gateway”并宣称消费者对PC的需求正在发生改变，Ted Waitt在一篇稿件中这样说到：&lt;/p&gt;
+
+&lt;p&gt;“从来没有一天像今天这样，消费市场和企业用户希望找到针对于他们特定需求的解决方案，这要求技术能够适应他们，而不是强迫他们来适应技术。”&lt;/p&gt;
+
+&lt;p&gt;这则看起来无关紧要的新闻很快就成为Gateway在Amiga市场中重要的指导原则，使Amiga成为台式机市场潜在的接班人之一。&lt;/p&gt;
+
+&lt;h2 id=&quot;改变方向&quot;&gt;改变方向&lt;/h2&gt;
+
+&lt;p&gt;回顾那段时间发生的一系列事件，年初Joe Torre关于PPC处理器的言论释放出这样一种信号：虽然Amiga Inc.并不打算亲自参与迁移工作，但移植到非68K处理器的目标已经被其内部广泛接受。类似的言论在圣路易斯的展会上被Jeff Schindler再次提出，他在展会上表示表示相比硬件Amiga Inc.更多的将注意力放在软件上。&lt;/p&gt;
+
+&lt;p&gt;当Tom Schmidt在1999年9月再次阐述上面的观点时，引发了Amiga世界的一场大地震：在此之前外接就传言在伦敦举办的World of Amiga展会上将会爆出猛料，而当消息真正曝光时却令外接感到始料不及——Amiga Inc.一改以往的表态，宣布未来的产品将基于PowerPC架构，并宣布将专注于数字融合市场的开发（Digital Convergence）——这在当年可谓是炙手可热的新概念，旨在将与电脑兼容的硬件和精简过的操作系统嵌入到消费电子产品中，比如说微波炉和音响设备。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_35.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_35.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;(Amiga曾选中的操作系统合作伙伴：BeOS)&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Amiga Inc.的一系列动作似乎也影响到了到其母公司Gateway，他们宣布下一代Amiga电脑将搭载一款高度机密的，使用第三方内核的操作系统。Gateway曾经试图宣布其操作系统内核提供者的人选，但是由于与合作方意外的发生分歧，在临发布的最后一刻收回了这则消息。之后所透露的信息显示，当时被选中的操作系统内核合作方是Be，而Amiga Inc.则计划使用BeOS内核作为新的操作系统内核。同一时间，Amiga社区内也在讨论一款名为MMC（Monster Mystery Chip——怪物神秘芯片）的神秘芯片，据说其绘图能力达到4亿像素每秒。&lt;/p&gt;
+
+&lt;p&gt;计划中新操作系统第一阶段的计划是发布一款基于x86处理器的开发系统，预装beta版本的操作系统。令人困惑的是这款操作系统被称作AmigaOS 4.0，但实际上这一版本与之前的AmigaOS并没有什么关系，而只是作为最终被称作AmigaOS 5.0的新操作系统的预览版。开发系统计划的发布时间是11月，所以就有了“十一月盒子”的外号。开发系统中使用了x86处理器让许多讨厌Intel的社区成员感到气愤，新闻组和邮件列表中充斥着对Amiga Inc.“叛变”的声讨和不再支持Amiga的评论。Amiga Inc.立刻采取了危机公关措施，解释AmigaOS 4.0(晚一些时候改名为OS5Developers，AmigaSoft，并最终被称为Amiga OE)只是过渡平台，利用这一平台开发的产品最终将于2000年时发布。而回应的消息则褒贬不一，许多人认为Amiga采用x86是迫不得已之举，如果Amiga希望按照计划开发基于开放平台的新产品，就必须经历死而复生的轮回，而不可能坐以待毙。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_35.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_35.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;（图为使用X86处理器的Amiga开发系统）&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在World of Amiga ’98上，Amiga升级路线对用户带来的影响日渐明朗，对于Amiga Inc.来说，新款Amiga的发布之日将会是现有的AmigaOS 3.0“光荣退休”的日子。为了避免与新款Amiga电脑产生混淆，现有的68K和PPC系统将被称为“经典Amiga（Classic Amiga）”。幸运的是，在意识到现有Amiga系统可能面临的危机之后，曾经在PPC内核上的开发中打的不可开交的Phase 5和Haage &amp;amp; Partner化干戈为玉帛，宣布将共联合发一款新的开发平台。合作的最终结果将是名为“经典Amiga开发系统（Classic Amiga PPC development system）”的新平台。在这一计划中，Phase 5负责硬件的开发而由Haage &amp;amp; Partner负责软件部分。但这一计划直到最后都没有任何成果，Haage &amp;amp; Partner在1999年末曾试图再次启动该计划，结果仍是无疾而终。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_37.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_37.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;（WarpOS是Haage &amp;amp; Partner开发的支持PowerPC处理器的AmigaOS内核，可以支持更多的3D游戏）&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;接下来的几个月中，关于新款Amiga的消息和猜测陆续浮出水面。但很快外接就了解到新款Amiga的规格仍然没有确定下来。1998年底，MMC芯片计划被搁置，而Amiga宣称新的电脑规格的规格并非与特定扩展卡密切相关。Fleecy Moss也在此时宣称操作系统才新规格的重头戏，而硬件并不是那么重要。直到一年之后，Fleecy才澄清MMC显卡确实存在，不过生产他们的公司已被收购，神秘芯片背后的秘密终被揭开，开发这款芯片的，是山景城的半导体公司Chromatic Research，就在Fleecy声称软件更加重要之前不久，Chromatic被另一家图形芯片开发商ATI收归麾下。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_38.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_38.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;（使用Chromatic MPACT 2芯片的显卡，MPACT 2是一款可编程的DSP，除了用作显卡，也被用作UAD-1 DSP扩展卡的主芯片）&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Amiga对于操作系统合作伙伴的消息一直保持沉默，而社区则在焦急的等待中渐渐失去耐心。在与Be的合作计划告吹之后，Amiga曾承诺30之内天公布新的操作系统合作伙伴，但却迟迟没有兑现。直到11月15日的Computer ’98博览会上，Amiga最终宣布QNX（念作Q-Nix）将会是新的操作系统合作伙伴。Amiga社区对QNX Neutrino的内核技术相当欢迎，虽然人们对新的系统了解有限，但是仍将其视作AmigaOS的真正继任者。QNX的高效设计将系统内核尺寸控制在50k以内，因此只依靠一张软盘就可以运行Web服务器和一系列工具软件，而即使是AmigaOS也无法做到这一点。不过在Fleecy Moss被Amiga Inc.解雇之后，好消息似乎也要变成坏消息，Fleecy掌管着Amiga Inc.的数个项目，而他的离开则让人们担心Amiga OS 3.5计划的前途。经过多次讨论之后，AmigaOS 3.5最终被承包给Haage &amp;amp; Partner，虽然项目得以继续，但Fleecy离职时从Amiga Inc.带走了一批开发人员，这将不可避免的影响到OS3.5的开发。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_38.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_38.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p&gt;&lt;b&gt;（QNX系统界面）&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;1998年对于Amiga来说，是专注于新产品开发的一年。在摆脱了Commodore阴影之后，Amiga五年来第一次看到扭转败局的机会。但新产品的开发却是以QNX和Amiga的市场被拆分为代价的。经历数次挫折的Amiga此时较以往更加聪明和强大。如果Amiga市场能够接受现状，QNX的优点将会展现出来，虽然前景看起来十分明朗，但Amiga错误的销售理念很快又会将自己拽入泥潭。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/21310429&quot;&gt;https://zhuanlan.zhihu.com/p/21310429&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Mon, 06 Jun 2016 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/amiga_computer_legend_4.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/amiga_computer_legend_4.html</guid>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Amiga电脑传奇（三）</title>
+            <description>&lt;h2 id=&quot;1997-第一阶段目标---支持现有的amiga社区&quot;&gt;1997： 第一阶段目标 - 支持现有的Amiga社区&lt;/h2&gt;
+
+&lt;p&gt;Amiga的故事似乎已经接近尾声了。在过去年一年中，许多杂志都已停刊，软件市场也支离破碎，对于Amiga所有权的争夺仿佛回到了1995年初，然而Quickpak仍然相信他们可以购买Amiga，并公布了他们对Amiga的最终开价。在当时，Quickpak也几乎被视为是Amiga最后的希望了。他们曾经是Escom电脑的制造商，拥有新的A4000衍生机型，并计划将Amiga OS移植到DEC Alpha处理器上。离2月28日收购案最终敲定的最后期限日益临近，而Amiga的开发者此时仍然没有觉察到有几家大型企业正参与到Amiga的竞购当中。曾经在1995年参与过收购竞标的戴尔在此时重新启动他们的收购计划，紧随其后Gateway 2000也加入竞标。对于像戴尔和Gateway 2000这样一直忠实于微软平台的PC厂商来说。他们并非对Amiga架构感兴趣，而仅仅是想获得Amiga持有的47项专利，对于PC行业来说，这些专利可以称得上是奇货可居。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_24.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_24.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;无论这场围绕着法律展开的收购大战结果如何，众多厂商对Amiga的争夺使人们对于Amiga平台的信心重新高涨起来。此前由于Commodore的倒闭，人们曾普遍认为Amiga在游戏界的地位也即将终结。但从三月份开始，在业余程序员的推动下，新一批的游戏又重新出现在Amiga平台上。一个非官方的迷雾之岛（Myst）幻灯片，和非法移植（而且性能很差，帧率只能达到4fps）的Quake都毫无预兆的出现在Aminet上。虽然仍然面临很多问题，但这些幻灯片都展示出对于适用于新的Amiga硬件的游戏的需求。最终clickBOOM正式接手了这两款游戏向Amiga平台的移植工作。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_25.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_25.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;与之同时，Viscorp的善后进程也开始影响到Amiga。由于VIScorp拖欠Almathera开发Amiga ED的资金，导致后者因现金流问题而宣布倒闭。而Village Tronic也加入了对Amiga科技公司Amiga OS 3.1升级版销售权的诉讼，导致该升级版一度短缺。唯一的好消息是Viscorp的前员工，EXEC和CDXL的开发者Carl Sassenrath此时正在开发一款名为Lava的编程语言，后来这款语言被更名为Rebol，这款语言显示出Amiga开发理念的生命力，并在两年之后的反Amiga运动中发挥了重要的作用。&lt;/p&gt;
+
+&lt;p&gt;此时Phase 5之前与Amiga科技合作的PowerUP开发板的研制工作仍在继续进行，而Escom公司的关门则使对现有AmigaOS的修补工作变得遥遥无期。考虑到未来可能不会再有新的Amiga官方机型，Phase 5希望将既有的Amiga市场嫁接到自家的A/Box机型上。这样如果官方版Amiga的历史就此告终，A/Box也能够作为继承Amiga理念的PowerPC电脑将这一市场继续下去。针对Amiga OS的ReTargetable Graphics API的新款显卡CyberVision 64和Picasso IV也陆续发布，在未来的几年中，显卡市场的竞争将像PowerPC处理器之间的竞争一样激烈。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_26.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_26.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;赢家&quot;&gt;赢家！&lt;/h2&gt;
+
+&lt;p&gt;在几个月的焦急等待之后，Amiga最终被Gateway 2000拍下。戴尔在最后一刻决定放弃购买并撤销报价。虽然Gateway 2000开始看重的是Amiga所持有的专利，但Amiga背后的数百万用户还是引起了Gateway 2000的重视。此时Gateway与微软之间的关系正陷入低谷，为了缓和从Intel和微软而来的压力，Gateway成立了一家新的子公司，将Amiga Technologies改名为Amiga International。而Petro Tyschtschenko则被留任并继续负责Amiga的事务。&lt;/p&gt;
+
+&lt;p&gt;在伦敦诺富特酒店举行的World of Amiga 97大会上，新公司正在勾画着Amiga重生的计划。首要的计划是在1998年春天开发新的操作系统，Petro指出他们将继续支持现有Amiga市场上的大部分软件，整合类似于MCP（MCP）这样公有领域的系统扩展，并且会加入对Retargetable Graphics和声音的标准化支持。计划中同时包括了对TCP协议栈和USB总线接口的支持。对于这一系列功能的开发一直持续到AmigaOS 3.5发布的两年之后（虽然直到2002年Amiga用户才获得对USB接口的支持）。在替换68k处理器的计划上，Amiga International再次承诺他们将迁移到PowerPC平台，并承诺移植版的AmigaOS将在1998年的下半年发布。Amiga还宣称他们不会自行开发硬件，而是会将系统授权给其它厂家的硬件使用，比如Phase 5的A/Box和PIOS的TransAM。不过Amiga International很快就对此事反悔，推翻了他们之前作为纯软件厂商的策略并开始研制Power Amiga，而这一决定将会困扰Amiga International相当一段时间。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_27.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_27.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Gateway 2000收购Amiga对市场带来的刺激远远高于Escom的那次收购。Amiga International的影响力首先体现在其技术授权上，Amiga相关的技术被授权给多家公司使用。Amiga的兼容机型也第一次有了统一的标志:“Powered By Amiga”。虽然最早的兼容机型其实只是将Amiga 1200的外壳换为立式机箱，但这却代表着Amiga兼容机的市场的起步。另外一则新闻则是Index Information开发了一款叫做Access的Amiga兼容机，主要面向POS机市场。此前Index Information曾经在Commodore时代开发Amiga扩展卡，这次他们终于可以继续自己在Amiga平台上的优势了。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_28.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_28.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;晚些时候的Computer ’97博览会中，Petro Tyschtschenko解释了这一系列战略背后的原因，并展示了Amiga未来两个阶段的计划，主要包括了:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;通过第三方授权，充分利用现有的技术资源，并支持已有的Amiga社区&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;面向家用电脑和视频图形市场，协助开发基于开放标准的新产品&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Amiga International将在1998年和1998年两年间，集中精力于以上的两个方面。而Amiga Inc. 则主要负责研发新的产品。最终的成果将在World of Amiga ‘98发表，包括了在数字融合领域的Amiga，以及由其发展而来的Amiga OE(Amiga开放环境)。&lt;/p&gt;
+
+&lt;h2 id=&quot;谁是amiga的真正主人&quot;&gt;谁是Amiga的真正主人？&lt;/h2&gt;
+
+&lt;p&gt;就在Amiga被卖给Gateway之后不久的7月17日，一篇新闻稿宣称Lotus Pacific购买了Amiga在远东地区的商标和专利权。Gateway真的没有将Amiga出售吗？随着WonderTV 6000多媒体电脑的发布，这个问题显得更加扑朔迷离。Gateway很快出面辟谣收购的消息，随着故事真相的揭开，这则传言的谜底要追溯到Escom两年前的一笔交易。根据Escom原始报告的解读，这则交易仅限于生产和销售的权利，并不包括Amiga在远东全部的专利权。外界一度认为Gateway 2000和Lotus Pacific之间的诉讼大战一触即发，直到两家公司正式签署相关的协议才结束了这场风波。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_29.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_29.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在年底前对Amiga OS 3.1进行升级的承诺广受外界质疑，因为Amiga International仅仅是简单的运作Amiga品牌，并没有软件开发的实力。而主要职责是负责Amiga未来的开发工作的，则是Gateway 2000在九月份成立了另一家子公司 – Amiga Inc.，与最早开发Amiga的公司同名。而Amiga International则专注于市场营销。出任新公司总经理的是当时正为Gateway工作的Jeff Schindler，Jeff Schindler曾经参与开发Gateway 2000的Destination大屏幕电脑，并有Commodore产品的背景。之后Petro Tyschtschenko宣布了一系列不切实际的计划，宣称Amiga OS 3.5最晚将于1998年春天发布，而冬天则将发布新的硬件，不难预料这些计划都将会落空。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_30.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_30.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;amiga-inc&quot;&gt;Amiga Inc.？&lt;/h2&gt;
+
+&lt;p&gt;对于这家公司来说，开局的情况十分不错，他们广泛地与开放Amiga工业协会（ICOA）的成员见面并征集他们的意见，向整个社区展示他们对产品的热情和责任。从Commodore时代就广为人知的游戏开发者Andy Finkel也应邀发表了对Amiga未来的展望，在Amiga历史上占据举足轻重地位的Joe Torre和Fleecy Moss也在这时登场。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_31.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_31.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;1997年底的Amiga社区洋溢着乐观的情绪，Gateway 2000收购Amiga带给开发者们新的期望，并推动了一系列新款软件和硬件的开发。自打1994年就陷入沉寂的Amiga市场，终于又可以看到新出现的68k机型(BoXeR, DCE A5000, Micronik A1500)向外界宣示着Amiga未死的声音。Phase 5承诺已久的PPC开发板也终于出现，拉开了68k向PowerPC迁移的序幕。Amiga模拟器和盗版的问题随着Cloanto获得Amiga OS和ROM的授权，也看到了解决的希望。而在这之后关于Amiga Inc.和Be之间的讨论仍在持续发酵，有说法认为Be曾经试图授权一部分BeOS技术，但没有任何一方承认这一点。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_32.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_32.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在这一切的背后，1997年对于Amiga Inc.来说是成功的一年，不仅成功的保持了市场的热度，并且推出了一系列新的Amiga配件。在他们面前的，则是将Amiga推向新的高度并迎接未来的挑战。但是对于Amiga的用户们来说，却已经历了太多的等待……&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20942248&quot;&gt;https://zhuanlan.zhihu.com/p/20942248&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Sat, 21 May 2016 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/amiga_computer_legend_3.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/amiga_computer_legend_3.html</guid>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Amiga电脑传奇（二）</title>
+            <description>&lt;h2 id=&quot;1986自成一派&quot;&gt;1986：自成一派&lt;/h2&gt;
+
+&lt;p&gt;在Amiga刚刚推出的那段时期，Commodore并没有因已经取得的成绩而自满，而是立即着手基于A1000开发两款新的机型。其中就包括A2000，这款机型由两个团队合作设计，一组是位于美国洛思加图斯（Los Gatos）的Amiga原班人马，另一组则是新加入的德国团队。然而之后出于消减成本的理由，洛思加图斯的办公室被关闭，最初的开发团队也被解雇，德国团队的设计方案则被选中继续目前的项目。原Amiga团队对于Commodore的不满也日益加剧，他们认为Commodore既缺乏创新精神，也缺少销售渠道。虽然A2000被认为在技术上并不优秀，无法作为Amiga 1000合格的接班者，但是Jay Miner仍然对在高端机型中加强可扩充性的开发思路标识赞同。&lt;/p&gt;
+
+&lt;p&gt;拥有大批转移植老游戏的Atari ST仍然在市场上领先于Amiga。此时美国仍然是Amiga最为成功的市场，但是Commodore并没有全力将Amiga作为一款面向严肃用途的电脑来推广，因而不仅让IBM和苹果成功占领行业市场，也开始侵蚀原本Commodore看重的家庭市场。&lt;/p&gt;
+
+&lt;h2 id=&quot;1987-我们面向大众销售而不仅针对特定阶层&quot;&gt;1987： “我们面向大众销售，而不仅针对特定阶层”&lt;/h2&gt;
+
+&lt;p&gt;这一年Amiga产品线获得了第一次大更新，发布了两款新机型，高端机型Amiga 2000，和低端机型Amiga 500。A2000主要面向美国市场，以多媒体功能为主要买点。而A500则侧重于欧洲市场，力图取代Atari ST的市场地位，并促使游戏充分利用新硬件的优势。尽管价格仍然高于Atari ST，但Amiga 500仍然被许多人寄予厚望，期待着Amiga 500成为由8位机型（如Spectrum和Amstrad）升级到16位机型的先声。这一系列举动也展示出Commodore发展目标的变化。创新的硬件和操作系统，加上Commodore面向大众市场的营销能力，使Amiga出人意料的引发了家用电脑市场的大变革，将多任务和彩色图形这些当年堪称豪华的功能变成为家用电脑的标配，而微软和苹果直到数年之后才在自己面向大众的产品中加入这些功能。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_11.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_11.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在Commodore的董事会里正在发生戏剧性的一幕。4月22日，董事局主席Irving Gould 替代时任CEO的Thomas Rattigan掌握了Commodore的控制权。我们并不清楚为什么要换掉才将Commodore扭亏为盈的Thomas Rattigan。在1987年3月的报告中显示，Commodore在之前的四个季度中共盈利2800万美元。对此Rattigan的解释是因为Gould主席和他性格不合，不愿意将公司脱困算作Rattigan的功劳，因此强迫他退出。而Gould则反驳说Rattigan让Commodore丢掉了70%的海外市场，而美国市场的成绩则只是杯水车薪。在Gould的控制下，北美运营部被从一个独立的运营部降级为一个营销部门，北美总部一半的员工被解雇，雇员数从之前的4700人大幅减少为3100人。五家工厂也同时被关闭。&lt;/p&gt;
+
+&lt;p&gt;1988：接管世界
+随着越来越多的游戏无法在性能孱弱的Atari ST上运行，Amiga开始接管Atari ST在市场中的地位。作为对Commodore收购Amiga Inc.的报复，Atari曾在1984年以Atari出资参与Amiga的研究为由，将Commodore告上法庭。而Commodore的胜诉则导致8位游戏价格大崩盘，而那些没有打折的全价游戏的销量则是一路下滑，只有廉价游戏仍然有所增长。在Codemasters和Alternative等游戏开发商的带领下，8位机市场又维持了三年左右的时间。到了1988年，英国的16位游戏市场开始成长，一系列长期发行的Amiga杂志也在这一年中问世。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_12.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_12.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1989隐患&quot;&gt;1989：隐患&lt;/h2&gt;
+
+&lt;p&gt;在微软和苹果大举占领办公市场的同时，Commodore内部的隐患也开始显现出来。Commodore认为他们的老冤家Atari已经战死沙场，自己已经处境安全，并因此放任公司的业务停滞不前。而许多证据已经证明守成的战术已经难以奏效。加拿大分公司1月31日的记录表明该公司因 “价格歧视” （价格锁定）被罚款4万加元。尽管有种种的预警信号，Amiga的回应也只是在1989年进行了小幅硬件升级，比如升级Amiga芯片组支持使用1MB芯片内存。只有在英国Amiga的市场营销仍然奏效。之后成为英国Commodore掌管者的David Pleasance推出了 “A500蝙蝠侠套装” 并成功售出数千套，成为90年代初期Amiga拥有量上升的主要原因。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_13.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_13.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1990重新发明amiga&quot;&gt;1990：重新发明Amiga&lt;/h2&gt;
+
+&lt;p&gt;4月24日，随着A3000的发布Amiga世界终于迎来了期待已久的更新，A3000采用更强大的32位处理器，SCSI接口，并搭载了升级之后的操作系统。不同于Workbench 1.x的简陋外观，Workbench 2采用配色清爽的蓝灰色界面，让它看起来更加的专业。可是Commodore管理层内部对于新产品发布的沟通却并不顺畅，就在A3000发布的30分钟之前，管理层仍试图否认A3000的存在。接下来的6月份，售价699英镑的CDTV被公之于众。宣传材料中称其为第一台面向主流市场的CD娱乐系统。在硬件上，CDTV基本上可以看作是一台面向主流市场推出的，装备有1MB内存和CD驱动器的A500电脑。关于CDTV有一个特别有趣的举动就是Commodore International不希望将CDTV作为电脑销售，而要求商场不要将CDTV摆放在计算机柜台5米以内的地方，但这一举动却令零售商和公众感到困惑。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_14.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_14.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;太阳公司（Sun）曾经试图取得生产A3000UX的OEM许可，作为他们的低端UNIX工作站产品。不过Commodore的管理层却放弃了这笔交易。另一则值得注意的新闻则是NewTek发布了他们屡屡跳票的Video Toaster for Amiga，这款外设成功地将Amiga引入视频图形市场。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_15.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_15.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1991原地踏步&quot;&gt;1991：原地踏步&lt;/h2&gt;
+
+&lt;p&gt;千里之堤毁于蚁穴，市场逐渐对Commodore失去信心。Commodore在没有任何预告的情况下发布了低端机型A500的升级版，Amiga 500 Plus，并取消了CDTV的开发计划。而在高端市场上，Commodore发布了A3000T，并且展示了计划于未来发布的Amiga 3000+。不过Amiga 3000+在不久之后既由A4000取代。游戏主机市场的繁荣此时正摧毁着Amiga在家用电脑市场的统治地位。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_16.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_16.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1992下一代产品&quot;&gt;1992：下一代产品&lt;/h2&gt;
+
+&lt;p&gt;A500+直到1992年初才开始大量出现在市场上，但购买者通常仅是用它来替换旧的A500，因为这时已经离三月份A600的发布没有多少时间了。A600对于设计者来说是很大的挑战，它使用了表面贴片技术(SMT)来减小体积，同时定价与A500持平。这时任天堂和世嘉在消费市场中正日益壮大，作为进入游戏主机市场的尝试，A600的营销方案将其定位于带键盘的游戏机。但用户却仍然将其视作个人电脑，许多评论认为A600看起来类似于白色版Spectrum 48K，一部分用户更是对缺少数字键盘感到不满。最令早期购买者不满的则是产品价格的快速下降，从399英镑迅速跳水到199英镑。不过，A600却是世界上最早使用PCMCIA卡的电脑之一。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_17.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_17.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;舆论普遍认为A600根本就不应当被发布。特别是在A600发布时，离新款芯片组也只剩一步之遥了。A4000的曝光引起了外界的极大关注，被称为AA（Advanced Amiga）的新型芯片组最终在9月11日美国Pasadena举行的World of Amiga大会上得到确认。这款芯片组被称为：&lt;/p&gt;
+
+&lt;p&gt;“本公司自1985年发布Amiga产品线以来最突出的技术创新”&lt;/p&gt;
+
+&lt;p&gt;对于众多的Amiga发烧友来说，这代表着Commodore终于开始正视来自于PC和Mac的威胁了。为了避免在欧洲市场上与汽车协会（Automobile Association）产生混淆，AA芯片组不久就被改名为AGA(Advanced Graphics Architecture - 高级图形架构)。新的图形硬件支持同时显示1670万色中的256色。原有的HAM模式也被升级到HAM-9以支持显示25万6千色。在软件方面，升级后的Amiga 3.0不仅为操作系统竞赛带来了新的有力竞争者，也释放出Commodore可能会放弃定制芯片组并重构系统的信号。Amiga 3.0包含了CrossDOS（支持访问PC磁盘），datatypes（添加系统级插件的尝试），localization（支持多语言配置），标准化的安装工具，改进的文件系统（适用目录缓存提高了访问速度，并且改进了国际化及非英语字符的支持）等等新的功能。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_18.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_18.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;1992年内一共有两款采用AGA芯片组的机型被发布。首先发布的是高端的Amiga 4000。这款机型着实让Amiga赚够了眼球，并终结了新机型不兼容现有软件的争论。Amiga在将产品线升级到32位的同时也能够兼容大多数OCS/ECS软件，同时Amiga挫败了Atari的最后一次反击并彻底切断了Falcon的活路。不过对于见过Falcon预生产型号的开发者们来说这却有些辛酸，因为Falcon在许多方面都明显好于A4000。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_19.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_19.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;很快低端的AGA系统A1200也公之于众。虽然发布时间已经被推迟到12月，但是这台机器仍有实力重现A500的火爆。Amiga产品线的升级终告完成，但仍有棘手的问题等在后面。&lt;/p&gt;
+
+&lt;h2 id=&quot;1993危机迫近&quot;&gt;1993：危机迫近&lt;/h2&gt;
+
+&lt;p&gt;这一年是Amiga转折的一年，无论是好消息还是坏消息都在这一年中接连出现。第一则大事件是二月份的大减价，接下来则是Commodore四月份上市的Amiga 1200销量突破了之前的纪录，达到10万台。然而，接下来Commodore却发布了一系列失败产品。他们并没有因之前的失败而放弃多元化市场，CD32是基于AGA芯片组的第三款产品，类似于之前的CDTV，CD32是一款主要面向非计算机用户的、没有键盘的Amiga(硬件上类似于A1200)。这次Commodore吸取了之前的教训。一方面将CD32宣传为市面上第一款配备CD光驱的32位游戏机，另一方面Amiga非常积极的鼓励开发者在新平台上开发产品。这种策略收获了不错的成果，在1993年9月发布之后的一年间，针对CD32的游戏卖得要比任何其他光盘软件都要好得多，远远超过同时期的Mega/Sega CD和刚刚起步的PC CD-ROM。不过对于游戏机市场来说，CD32只能算是偏安一隅，16位主机在当时仍然占据主宰地位。另外一个潜在的隐患则是Commodore没有解决CDTV发布时多媒体和教育软件短缺的问题。而在早期的光盘软件中，多媒体和教育软件是PC CD-ROM的主要阵地。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_20.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_20.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;在1993年里，A1200仍旧是最受欢迎的机型，但是PC已经虎视眈眈的注视着Amiga的传统领地——家用市场。&lt;/p&gt;
+
+&lt;h2 id=&quot;1994老朋友再见&quot;&gt;1994：老朋友再见&lt;/h2&gt;
+
+&lt;p&gt;这一年被认为是Commodore时代的结束，而Amiga也开始了其流落旷野的日子。3月，Commodore发布了第四款AGA机型Amiga 4000T。不过他们却无法提供充足的供货。在纠结数月之后，4月29日下午4时10分Commodore International申请清算，从而使他们暂时免受债权人的追偿。这也立刻让其仅有少量库存的子公司陷入困境。Commodore英国公司发布警报说他们将在9月份面临断货，导致了第一次Amiga饥荒。而在其他一些国家却没有这么大的影响，因为包括Commodore澳大利亚在内的许多分公司，早在几个月之前就已经关门大吉了。为了拯救公司，Commodore 英国分公司的David Pleasance试图让管理层将Commodore 英国分公司买断，并改名为Amiga International。在David Pleasance 的采访中他讲到：&lt;/p&gt;
+
+&lt;p&gt;“这将不会对英国市场造成影响……这个品牌仍然很强大不至于这么快就死掉，我们有信心Commodore和Amiga会走出困境成为更好更强的公司。”&lt;/p&gt;
+
+&lt;p&gt;随着时间的流逝，Amiga的库存逐渐告罄，买断公司的计划也是困难重重，曾有一家大银行曾经做出承诺帮助他们买下公司，却无法兑现。随着时间的推移，PC逐渐接管Amiga在家庭市场中的地位。而不久之后的6月20日，Jay Miner也在山景城的El Camino医院因肾病引发的心脏衰竭与世长辞。对于Amiga来说，1994年是暗淡的一年。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_21.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_21.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1995急流勇退&quot;&gt;1995：急流勇退&lt;/h2&gt;
+&lt;p&gt;1995年Amiga仍然受困于1994年的窘境，如同电脑行业的孤儿一般。一月，切尔西足球俱乐部考虑对Commodore采取法律行动，因为他们从未收到过Commodore承诺的赞助款项。宣称的收购日期则是朝令夕改，4月20日Amiga和Commodore被打包出售。有意向的买家包括Commodore英国分公司，IBM，Dell, Escom，CEI和三星。最终，Escom买走了Comodore和Amiga。虽然他们有兴趣的仅仅是Commodore品牌，但是他们还是被迫拍走全部。实际上而正像许多人所指出的那样，Escom对Amiga并没有兴趣。&lt;/p&gt;
+
+&lt;p&gt;在Escom的控制下，Commodore和Amiga品牌被迅速拆分。新的PC产品（以及音箱、键盘和其他各类产品）被打上重新设计的Commodore标志出售，而Amiga的销售和开发部门则由一家新成立的分公司Amiga Technologies负责，其骨干包括一些原Amiga的员工，其中就有Jonathan Anderson。第一家被授权使用Amiga技术的公司VISCorp曾经引发过一些关于Amiga互联网机顶盒的讨论。但是Amiga用户对与这些描述中的机型能否真的被买到却是半信半疑。虽然Amiga Magic Pack在10月末的一个雨天发布。但是有意购买A4000的用户却要等到1996年二月才能买到他们想要的机器。同时，对于Escom扩张的过于快速从而导致亏损的怀疑也没有停止。看起来一切似乎又是要重蹈覆辙。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_22.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_22.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1996困境&quot;&gt;1996：困境&lt;/h2&gt;
+
+&lt;p&gt;1996年的形势依旧动荡不安，Amiga Technologies在这一年关闭了他们在梅登黑德（Maidenhead）的办公室，将其合并成进Escom英国公司的一个部门。Jonathan Anderson也在试图通过抨击Amiga Power杂志并希望取消Amiga品牌之后不久离开了公司，大多数Amiga用户如今都感到自己已经被抛弃了，很快Jonathan的di’w就被资深Amiga爱好者Petro Tyschtschenko所替代。有猜测者认为这是Escom对Amiga失去兴趣兴趣的信号，但很快，随着拥有独特外形的Mind Walker（以Commodore发布的第一款电脑游戏命名），以及Power Amiga的发布。这一观点就被推翻。Mind Walker看起来就像是一台胡佛吸尘器，或者是神秘博士里的机器狗K-9，它既可以支持Zorro扩展卡，也可以使用较便宜的PCI扩展卡。此外其他一些公司也发布了一些基于Amiga技术的设备，比如PIOS(后来改名为MetaBox)，而Phase 5的Amiga兼容机型TransAM和A/Box的开发也在进行当中。不过就当时的开发进度来讲，这些型号至少还需要两到三年才能面世。除此之外，Commodore在家用电脑市场上的老对手Atari，此时已被名为JTS Corp的硬盘制造商收购。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_23.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_23.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;7月，Escom与VISCorp宣布他们的谈判进入到最后阶段，Escom希望通过这笔交易，将Amiga卖给VISCorp以换取资金。VISCorp则宣称他们将放弃Mind Walker，并将注意力集中到Amiga互联网机顶盒上，并且Amiga操作系统将可以授权给任何对Amiga技术感兴趣的公司使用。不过随着时间的推移，VISCorp开始面临资金短缺，以至于无法正常支付员工工资，为收购Amiga的计划打上一个大大的问号。同年的12月份Quikpak又出人意料的宣布收购Amiga的意向，但这一系列事件，并没有阻止Amiga继续走向没落。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20868524&quot;&gt;https://zhuanlan.zhihu.com/p/20868524&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Mon, 09 May 2016 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/amiga_computer_legend_2.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/amiga_computer_legend_2.html</guid>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Amiga电脑传奇（一）</title>
+            <description>&lt;p&gt;译自：http://www.amigahistory.plus.com/ahistory.html&lt;/p&gt;
+
+&lt;p&gt;原文标题： The Twists and Turns of the Amiga Saga&lt;/p&gt;
+
+&lt;p&gt;译者注：Amiga电脑作为1980年代中期最为强大的16位多媒体电脑，在西方电脑爱好者中具有极高的地位，对Demosence文化和电脑音乐也有着不可磨灭的影响，由于历史原因，Amiga电脑在中国极其罕见。爱好者也寥寥无几，希望通过此文能够成为向中文社区介绍Amiga电脑的历史，并和有兴趣的爱好者交流观点看法。&lt;/p&gt;
+
+&lt;h2 id=&quot;1980最初的主意&quot;&gt;1980：最初的主意&lt;/h2&gt;
+&lt;p&gt;故事开始于Atari的一间实验室，Jay Miner此时正在这里从事8位电脑产品的开发，其中就包括了Atari 2600,400和800系列。这些电脑的基本设计中，都采用定制芯片来驱动音频和图像显示。Atari在当时可谓是风光无限，在游戏界的地位堪比今天的索尼和任天堂相比。但是Jay Miner却逐渐对这些机型的设计感到厌烦，相比继续改进已有的技术，他希望能使用摩托罗拉68000处理器开发一款新的电脑。他的这一提议被Atari所拒绝，因为Atari认为8位电脑仍是公司的现金牛，这一致命错误某种程度上正是导致1980年代中期游戏市场大崩溃的罪魁祸首。无奈之下，Miner从Atari辞职并加入Zimast从事起搏器芯片的设计工作。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_01.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_01.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1982悄然前行&quot;&gt;1982：悄然前行&lt;/h2&gt;
+
+&lt;p&gt;但故事并没有到此结束，1982年，Jay Miner收到了前同事Larry Kaplan的电话，后者在离开Atari之后创建了Activision公司。像Miner一样，Kaplan正在为新成立的游戏公司寻找投资人而奔忙。幸运的是，与Jay相识的三位牙医愿意投资700万美元支持他们进军日益成长的游戏市场。这促使了总部位于美国圣克拉拉的Hi-Toro的成立。在此期间，曾任Tonka Toys营销副总裁的Dave Morse被聘请为首席执行官。&lt;/p&gt;
+
+&lt;p&gt;然而，接下来由于管理失误导致业务不断延期，公司缓慢的步调逐渐使Larray Kaplan失去耐心，并辞去了副总裁的职位。为了填补Kaplan离职所带来的空缺，Dave Morse决定邀请此时仍在Zimast上班的Miner加入。随着Miner的加入，Hi-Toro得以从众多的开发商中脱颖而出。在1988年Amiga用户国际（Amiga User International）的采访中，Miner表示在他加入Hi-Toro之后，很快他就有了研制原型机的想法。&lt;/p&gt;
+
+&lt;p&gt;“很多年来我一直都希望基于摩托罗拉68000处理器研制超级个人电脑，Atari拒绝了我，但他们却给了我这个机会，一方面我们可以在这一想法的基础上开发规格简化、价格低廉的游戏机，以满足Dave Morse和投资者们的期待，另一方面则可以在此基础上开发可无限扩展的高端个人电脑，从而实现我的理想”&lt;/p&gt;
+
+&lt;p&gt;为了启动这一开发计划，Hi-Toro被分为两组人马：Atari外设组负责制造和销售已经开发完成的Atari 2600 Hi-Toro摇杆和游戏，其中包括PowerStick和JoyBoard这两款在1980年代颇具先锋精神的产品，和一部分简单的游戏。另外一组则是电脑开发团队，他们所进行的项目被称作“Lorraine”，这一名称是来自于Dave Morse妻子的名字。虽然电脑开发小组规模较小，但代表着未来发展的愿景。Lorraine原型的开发目标是搭建一台“怪兽”游戏机，配备有3.5寸软驱和键盘。而计划中该机型最主要的第三方游戏设计者会是Activision和Imagic。Hi-Toro希望让这款产品能够支持直接在游戏机上开发游戏，在当时的市场环境下，这种举动称得上相当激进；当年的Atari与今天的索尼和任天堂一样，都是希望依靠封闭的系统来打压第三方开发商。而Hi-Toro则拒绝与其同流合污，张开双臂欢迎潜在的开发者。在Amiga用户国际的采访中，Jay Miner讲到他曾经参观由Singer-Link开发的军用飞行模拟器的经历，他被眼前所见的一切所震撼，并开始思考如何利用位块传输器（blitters）提高图像处理性能。沿着这一思路，通过改变颜色寄存器增加发色数的HAM（Hold and Modify）技术最终于1985年开发完成，使电脑屏幕上可以同时显示4096种不同的颜色。虽然早期的报告指出这项功能运行缓慢使Miner曾一度想放弃这项功能，但是主板设计师以移除这项功能会让主板中间留下一个洞的理由劝阻了他，使这项功能得以保留在最终的版本里。最终，保留HAM功能被证明是一个明智的决定，多年之后正是这项功能让Commodore Amiga与其竞争对手Atari拉开了差距。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_02.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_02.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;1982年的最后一件大事则是公司改名，为了和日本割草机公司“Toro”区分开来，公司被改名为“Amiga Incorporated”。而Amiga名字的由来如今已是行业内内人尽皆知的故事了——Miner希望新名称尽可能的“友好”，而不是电脑行业中各种容易混淆的名词。西班牙语Amiga原本是女性朋友的意思，正与“友好”的含义相匹配，况且Amiga也会在电话本上排在Apple和Atari的前面。虽然Miner开始并不太中意这个名字，但很快他就意识到这个名字潜在的影响力。&lt;/p&gt;
+
+&lt;h2 id=&quot;1983从概念到面包板&quot;&gt;1983：从概念到面包板&lt;/h2&gt;
+
+&lt;p&gt;对早期的游戏公司来说，1983年是异常艰难的一年，市场正一步步走向崩溃的边缘，而当时的严峻形势也使媒体也开始怀疑电子游戏行业只会是昙花一现。即使是华纳这棵大树下的Atari也不得不勒紧裤腰带，无论是软件还是硬件的开发，都面对随时停止的可能。而Amiga Inc.也未能幸免，虽然Atari外设业务在上一年已经成为稳定的收入来源，但这时却在快速赔钱。Lorraine却成为他们唯一的救命稻草，他们招募了一批新员工加入Lorraine原型机的开发工作，其中包括Bob Burns，Glenn Keller，Dale Luck，RJ Mical(软件工程师)，Dave Needle，Ron Nicolson，Bob Pariseau以及Carl Sassenrath。&lt;/p&gt;
+
+&lt;p&gt;新人的加入使项目的软件和硬件项目得以分头进行。Jay Miner领导硬件开发团队，而Dale Lock则集中精力让操作系统运行在软件模拟器上。在接受记者采访时RJ Mocal这样描述它在Amiga公司的角色：&lt;/p&gt;
+
+&lt;p&gt;“我在Amiga开始时的工作是软件工程师，参与图形库的开发工作。我编写了名为Intuition的Amiga用户界面以及窗口/菜单系统。这是一项艰巨的任务，在7个月的时间里每周工作100小时，只为赶在Amiga发布之前完工。我也曾做过一段时间系统软件总监。我并没有参与Joyboard（滑雪板样式的游戏摇杆）的开发，但我是他们的用户。我们曾开发过一款叫做‘禅宗冥想’的游戏。”游戏的玩法是在Joyboard上盘腿打坐并尽可能长时间的保持身体不动，以此积累业力并最终达到涅槃。这事说来话长，只有经历过才能理解……”&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_03.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_03.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;到1983年9月的时候，定制芯片原型已经基本上完成了，一共包括三块芯片：Agnus（Address Generator - 地址发生器）、后来改名为Denise的Daphne（Display Adapter - 显示适配器），还有最终称作Paula的Portia（Ports and Audio - 接口和音频）。此时唯一的问题是如何让它们更加精简，这些复杂的芯片看起来更像是为大型主机而不是下一代微处理器所开发的。Amiga公司也遭受了严重的现金流危机，一些员工不得不采取二次抵押或者另寻资金支持公司。对他们来说，成败就在一线之间。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_04.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_04.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;1984曙光初现&quot;&gt;1984：曙光初现&lt;/h2&gt;
+
+&lt;p&gt;在两年的开发之后，Amiga Inc的硬件计划才被公之于众。为了给项目寻找资金支持，在1984年1月4号开始的芝加哥消费电子展上，Lorraine被展示给一些对此感兴趣的投资者。此时芯片仍然没有完工，整个项目仍然由四块面包板组合而成。在展示的过程中RJ Mical和Dale Luck编写了弹球动画的程序，在这个演示程序中一个红白相间的球体在屏幕中跳动。“弹力球”很快就成为Amiga技术实力的象征及后来反抗Commodore管理的符号。虽然投资人对这款硬件相当感兴趣，但这次展示没有任何决定性的成果。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_05.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_05.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;这时的Amiga已经是债台高筑，而团队成员们也已然是破釜沉舟，Dave Morse已经将自己的住房拿来做二次抵押。为了获得外部的资金来源，Amiga公司曾经向索尼，苹果，Silicon Graphics，Atari和许多其他公司寻求过支持。这些公司虽然对Amiga感兴趣，但却都不愿开出合适的报价。即使新设计的主板只使用了三颗芯片，苹果公司的Steve Jobs仍然以硬件过于复杂的理由拒绝了他们。只有Atari（当时由华纳管理）认真的提出了合作方案，签署了使用Amiga定制芯片的许可协议，并借给后者五十万美元维持其运行。之后Miner在1992年的采访中表示，达成这样的交易实在是不得已而为之：&lt;/p&gt;
+
+&lt;p&gt;“Atari给了我们50万美元并提出了他们的要求，我们有一个月的时间来决定是否与他们进行这笔关乎Amiga芯片组未来的交易，要么把钱退给他们，要么让他们获得使用权，这样的条件只有傻瓜才会同意，但我们别无选择。”&lt;/p&gt;
+
+&lt;p&gt;Amiga和Atari公司初步的计划包含一项协议，Atari将在九月一日以3美元一股的价格购入一百万Amiga优先股。但Atari得知Amiga Inc.不会退回之前的50万美元之后决定再出损招，要求将股价降至98美分一股。而更糟糕的是，Atari只想利用Amiga的技术赶在Commodore之前进入16位机的市场（此时Commodore正在开发Unix机型），而对Amiga的开发团队并没有兴趣，Amiga不情愿的接受了这些条件。不过与Atari之间的交易很快就半途而废，7月3日星期二，Atari的员工被告知所有的8位机项目一概取消，而Amiga项目也被暂停。面对交易取消的结果，Amiga团队开始四处寻找潜在的买家。&lt;/p&gt;
+
+&lt;p&gt;另一幕好戏也在这事上演着，Commodore正在以泄露公司为由起诉带领一半工程技术人员离职的Jack Tramiel。而仅仅几天之后，Tramiel买下了华纳旗下的Atari Consumer公司，从而获得了后者的制造和渠道优势，并将Tramiel Technologies更名为Atari Corp。他注意到Atari/Amiga原先的协议，并在圣克拉拉县高级法院像Commodore和Jay Miner提起了一项一百万美元的违约诉讼。Atari指控Amiga已经接受了Atari Inc.的50万美元先期付款，并将相关微处理器的授权作为对先期付款的回报，而在此之后仍寻找其他潜在买家的行为涉嫌欺诈。在报复起诉自己的老东家的同时，Tramiel也同时提出损害赔偿及禁制令，试图阻止Amiga将芯片出售给其他公司。&lt;/p&gt;
+
+&lt;p&gt;万幸的是Commodore认为Amiga的价值超过其潜在的成本，两天之后的8月15日Commodore International Ltd.宣布他们将购买资金困境中的Amiga Inc. 在这个反击的时刻，Amiga团队说服Commodore将每股的出家提高到4.25美元，使其可以获得一百万美元以偿还Atari的债务，几个星期之后Amiga硬件及其开发者们转移到新成立子公司“Commodore-Amiga Inc.”继续他们的工作。改名之后的Amiga电脑有了270万美元额外的开发资金，Amiga因此逃过一劫。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_06.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_06.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;新成立的Commodore-Amiga开始更新Amiga的设计，将原有的Lorraine游戏机转变为一台完整的电脑，这项工作最终的成果就是Commodore-Amiga 1000。这台电脑具备了许多在当时来说只有高端工作站才有的功能。内存也比预先的计划多出了一倍，达到256KB，同时独特设计的机箱在下方留有空间，刚好可以将键盘收入其中。当Jay Miner回忆起开始在Commodore工作的日子，充满留恋的说：&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_07.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_07.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“Commodore一开始对AMIGA非常好，他们帮助我们完成了许多之前没有资源去完成的改进，Amiga原来只能在同屏显示320种颜色，即使640模式也是一样。他帮我们将NTSC转换器从芯片里分离出来，改善了色彩效果。还替我们还清了债务，包括我自己借给公司的钱也一并还清。我们还在Los Gatos有了漂亮的办公室，最令人激动的是1984年他们让整个公司的员工带着他们的妻子和恋人来到纽约，在洛克菲勒中心召开隆重的AMIGA发布会”（Jay Miner, AUI访谈, 1998）&lt;/p&gt;
+
+&lt;p&gt;对于那些熟悉之后Amiga在Commodore的遭遇的人来说，开始的那些日子实在是太过于慷慨了。或许Commodore当时曾真诚的相信他们已经拿到了进入16位机市场的金牌令箭。作为收购协议的一部分，开发进度的安排是由Commodore来掌握的。开始时的计划是开发一款完全依靠鼠标驱动的系统，将既有的“Intuition”逐步扩展为一个完整的电脑操作系统。而为了赶上开发期限，Commodore决定雇佣英国开发商移植Tripos的一个版本并将其合并到现有的代码中（与Linux在1999年所做的决定类似）。然而后来的结果却大大低于Jay Miner及其团队的预期，缺少了许多原本计划实现的功能（如资源跟踪等）。&lt;/p&gt;
+
+&lt;h2 id=&quot;1985超前设计&quot;&gt;1985：超前设计&lt;/h2&gt;
+
+&lt;p&gt;当Commodore集中大量资源投入Amiga的同时，由Tramiel所掌控的Atari并没有放弃他们统治16位机市场的目标。通过使用现成的软件和硬件，Atari在创纪录的短时间内建立起自己的16位电脑平台——Atari ST。这款电脑使用移植到68K处理器CP/M操作系统，同时整合了GEM图形界面。而这种拿来主义的副作用也很明显，就是这款系统在很长一段时间内都只能执行单任务，界面背景色也只有单调的绿色。但这种快速堆砌出来的系统却成本低廉，制造也更容易，这使他们上市的时间比Commodore AMIGA早了好几个月。在吃过一次败仗之后，Jack Tramiel开始展示出其压倒老东家的强大气势。&lt;/p&gt;
+
+&lt;p&gt;在Commodore收购Amiga Inc. 11个月之后，他们发布了合并之后的第一款产品——Commodore Amiga（初期被命名为Amiga 1000）。7月23日，新产品在纽约林肯中心的发布会激发了媒体极大的报道热情。Commodore为这次发布会雇佣了Andy Warhol和Debbie Harry（金发女郎乐队主唱）来展示Island Graphics Graphicraft及Amiga电脑强大的图形处理能力。而发布会的结尾则是由Musicraft的作者Roger Powell和Mike Boom带来的合成音乐压轴好戏。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_08.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_08.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Commodore Amiga官方上市时间是1985年9月，售价1500英镑。世界上第一本Amiga杂志Amiga World也在不久之后开始发行。在发布之时Amiga价格受到许多批评，Amiga将自己定位于高端市场，而这一市场正被苹果Macintosh所占据。相比之下Atari ST的售价才不到Amiga的一半。后来Commodore犯下了他们的第一个错误：他们没有在专业领域推广Amiga，而是期望复制Atari ST的成功。但Atati ST在推出以来已经建立起稳定的市场份额，想就此击败Atari绝非易事，此时的游戏发行商往往将Amiga作为Atari ST之后的第二级发行平台。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_09.jpg&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_09.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;很难概括Amiga究竟在多大程度上领先于其他电脑系统。苹果电脑有图形界面，但很大程度上受制于黑白显示器。PC此时仍然使用着令人望而生畏的文字界面。Amiga手里还有一张王牌，它实际上是一台与电视兼容的系统，可以直接用来编辑电视脚本。这一功能即使放到今天，标准的Mac和PC也无法实现。在Juggler（杂耍艺人）演示程序中，3D环境中的人物角色使用带有金属光泽的球体表演杂技，Amiga强大的图形功能吸引了许多客户，并促使Electronic Arts重写了他们为IBM PC开发的Prism软件包（Xerox公司Doodle软件的增强移植版）并在9月份将重写后的Prism被命名为Deluxe Paint在Amiga平台上发布。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+    &lt;a href=&quot;../images/dnbwg/amiga_computer_legend_10.png&quot;&gt;
+        &lt;img src=&quot;../images/dnbwg/amiga_computer_legend_10.png&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;出处：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20861793&quot;&gt;https://zhuanlan.zhihu.com/p/20861793&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Sat, 07 May 2016 00:00:00 +0800</pubDate>
+            <link>http://0.0.0.0:8787/amiga_computer_legend_1.html</link>
+            <guid isPermaLink="true">http://0.0.0.0:8787/amiga_computer_legend_1.html</guid>
+            
+            <category>history</category>
+            
+            
+        </item>
+        
+    </channel>
+</rss>

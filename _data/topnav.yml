@@ -1,0 +1,19 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: 传奇故事
+      url: /news
+    - title: 电脑博物馆
+      external_url: http://museum.ihonux.com:86/
+    - title: 家用游戏博物馆
+      external_url: http://museum.ihonux.com:86/famicn/
+    - title: DOS游戏博物馆
+      external_url: http://museum.ihonux.com:89/
+    - title: CPU博物馆
+      external_url: https://cpu.ihonux.com/
+    - title: Flash档案馆
+      external_url: http://museum.ihonux.com:86/flash-archive/
+
+# Copyright 2021 Google LLC

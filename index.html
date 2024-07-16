@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>关于 | 复古电脑博物馆 | 在线电脑博物馆 | 计算机博物馆 | Retro Computer Museum</title>
+    <meta
+      name="description"
+      content="复古电脑博物馆是一组服务于教育，立足于公益的在线交互式计算机博物馆，在网页中重现电脑发展史。"
+    />
+
+    <link rel="icon" type="image/png" href="/icon/32x32.png" />
+
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon/180x180.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-title"
+      content="Ed Hinrichsen – Personal Website"
+    />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="theme-color" content="#f6d4b1" />
+
+    <meta property="og:title" content="复古电脑博物馆 | 在线电脑博物馆 | 计算机博物馆 | Retro Computer Museum" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://retromuseum.org/" />
+    <meta property="og:image" content="https://retromuseum.org/images/title.png" />
+    <meta
+      name="og:description"
+      content="复古电脑博物馆是一组服务于教育，立足于公益的在线交互式计算机博物馆，在网页中重现电脑发展史。"
+    />
+    <link rel="manifest" href="/manifest.json" />
+    <script type="module" crossorigin src="/assets/index-CQBwxXjq.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DpWnHuO4.css">
+  </head>
+
+  <body>
+    <div id="home"></div>
+
+    <canvas class="webgl"></canvas>
+
+    <div id="hero-backup">
+      <h3>Hi there, I’m</h3>
+      <h1>Honux</h1>
+      <ul>
+        <li>Retro Museum Curator</li>
+        <li>Retro Computer Culture Researcher</li>
+      </ul>
+    </div>
+
+    <nav>
+      <div class="menu-btn">
+        <button class="btn" onclick="toggleMenu()">
+          <svg width="16" height="16">
+            <rect class="st0" width="16" height="3.2" />
+            <rect y="6.4" class="st0" width="16" height="3.2" />
+            <rect y="12.8" class="st0" width="16" height="3.2" />
+          </svg>
+        </button>
+        <div style="display: flex">
+          <a
+            class="btn"
+            href="https://retromuseum.org/"
+            target="_blank"
+            style="font-size: 0.75rem; padding: 8px; padding-left: 10px"
+          >
+            复古电脑博物馆
+          </a>
+        </div>
+      </div>
+
+      <div class="menu-body" onclick="closeMenu()">
+        <a href="#home" onclick="closeMenu()">Home</a>
+        <a href="#aboutMe" onclick="closeMenu()">About</a>
+        <a href="#projects" onclick="closeMenu()">Projects</a>
+        <a href="#contact" onclick="closeMenu()">Contact</a>
+      </div>
+
+      <div id="tip-scroll">Scroll &#8595;</div>
+    </nav>
+
+    <main>
+      <section>
+        <h1 id="aboutMe">Hi there</h1>
+        <p>
+          复古电脑博物馆（RetroMuseum.ORG）是一组服务于教育，立足于公益的在线交互式计算机博物馆。
+          它始终坚守人们建设互联网最初的愿景：开放、平等和免费的访问信息。
+        </p>
+        <p>
+          复古电脑博物馆（Retro Museum）带您回到1970至1990年代，体验那个时代的电脑硬件与软件。
+          在这里，每一次点击都是一次穿越，每一段代码都讲述着历史。
+        </p>
+        <p>
+          不同于传统博物馆的静态展示，我们通过JavaScript模拟器，让您在现代浏览器中与复古计算机进行互动。
+          从Aplle II到IBM PC，从DOS系统到Windows系统，从文字命令到图形界面，一切尽在指尖。
+        </p>
+        <p>          
+          复古电脑博物馆不仅是技术的展示，更是连接过去与未来的桥梁。我们邀请您一起探索、学习、体验，共同见证计算机的演变。
+        </p>
+      </section>
+
+      <section>
+        <h1 id="projects">Retro Museum</h1>
+        <hr />
+
+        <h2>复古电脑博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Apple</li>
+          <li>Amiga</li>
+          <li>PC</li>
+          <li>中华学习机</li>
+          <li>Atari</li>
+          <li>Commodore</li>
+          <li>BBC Micro</li>
+          <li>Xerox Alto</li>
+          <li>Sinclair ZX81</li>
+          <li>ZX Spectrum</li>
+          <li>Acorn</li>
+          <li>Amstrad</li>
+          <li>AT&T</li>
+          <li>DOS</li>
+          <li>Windows</li>
+          <li>Macintosh</li>
+        </ul>
+        <p>
+          复古电脑博物馆是一个在线交互式的计算机博物馆，在网页中重现电脑发展史。
+          参观者可通过基于 JavaScript 和 WASM 的仿真模拟器在网页中体验 1970 年代 —— 1990 年代流行的电脑硬件和软件。
+          虽然时空流转，沧海桑田，早已是物是人非，但那些曾经闪亮的程序代码依然在这里跳动着。
+        </p>
+        <button
+          class="collapse-btn btn"
+          collapsed="true"
+          onclick="this.setAttribute('collapsed', this.getAttribute('collapsed') === 'true'? 'false' : 'true')"
+        >
+          more...
+        </button>
+
+        <div class="collapse-body">
+          <p>
+            <b>电脑</b> —— 主要是对一些古董电脑的模拟重现，此外还有一些影响较大的软件展示。
+          </p>
+          <p>
+            <b>操作系统</b> —— 对一些曾经流行的操作系统进行模拟重现，主要有Windows、Mac、Linux、Unix、OS/2、DOS、CP/M等。
+          </p>
+          <p>
+            <b>专题展览</b> —— 以电脑发展历程中某些特定领域为专题进行模拟重现，已经上线了Amiga 软件专题展、Apple Macintosh 软件专题展、Apple IIGS软件专题展、Apple II软件专题展、儿童教育软件专题展、Windows 3.x 软件专题展、DOS软件专题展、中华学习机专题、“中文电脑类报刊杂志图书”专题展、PC专题展、8-bit模拟器专题展、“操作系统界面大全”专题展、“史蒂夫的旧电脑博物馆”专题展、“3D之舞：90年代的VRML与3D网页”专题展、“DOS下的艺术：90年代的DOS Demos”专题展等。
+          </p>
+          <p>
+            <b>实验室</b> —— 主要展示一些古老技术的模拟再现，比如：CFido天堂资讯站、瀛海威时空、BBC Ceefax等。此外，利用当前的新技术对一些古老软件进行了模拟再现，比如：半条命 Half Life (Xash3D)、Minecraft Indev (WebGL)等。
+          </p>
+        </div>
+
+        <br />
+
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>家用游戏博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Super A'can</li>
+          <li>中文GB/GBC游戏</li>
+          <li>Gamate: 超级小子/超级神童</li>
+          <li>Watara SuperVision/泰可BOY</li>
+          <li>Mega Duck/Cougar Boy</li>
+          <li>GameKing: 代代星游戏王</li>
+          <li>GameKing III: 游戏王彩屏版</li>
+          <li>禾维Pocket Dream Console（PDC100）</li>
+        </ul>
+        <p>
+          家用游戏博物馆是一个在线交互式的电子游戏博物馆，
+          参观者可通过网页中的仿真模拟器重新体验到那些历史上由中国大陆及港澳台地区开发的，
+          以家用游戏机和掌上游戏机为平台的电子游戏，重温童年的乐趣。
+        </p>
+        <hr />
+
+        <h2>DOS游戏博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>DOS</li>
+          <li>DOSBox</li>
+        </ul>
+        <p>
+          DOS游戏博物馆收录了 1898 款 DOS 游戏，这些古老的 DOS 游戏通过 JavaScript 仿真模拟器在网页中获得了重生，焕发了新的生机。
+          参观者无需安装即可体验。谨此向那个没有网游、没有手游、性能有限却又最有创造力的游戏黄金时代致敬！
+        </p>
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>DOS病毒博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>DOS</li>
+          <li>Malware</li>
+          <li>DOSBox</li>
+        </ul>
+        <p>
+          DOS病毒博物馆收录了 1980 年代和 1990 年代在家用计算机上传播的恶意软件程序（通常是病毒）。
+          一旦他们感染了系统，有时会显示您已被感染的动画或消息。
+          由于事先已删除病毒中的任何破坏性例程，参观者可通过使用网页版的 DosBox 仿真模拟器，安全地体验几十年前的病毒感染效果。
+        </p>
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>电脑学习机博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>小霸王</li>
+          <li>奔力</li>
+          <li>小博士</li>
+          <li>北同方</li>
+          <li>荣丰</li>
+        </ul>
+        <p>
+          电脑学习机博物馆收录了 30 种中外学习机卡带程序，可在线体验。
+          电脑学习机是我国计算机发展的一个重要分支，它是在特殊历史背景下的产物，让无数青少年对计算机的知识有了初步的了解。
+          我们用电脑学习机玩游戏、打字、学编程等，留下了一段青春中最美好的记忆。
+        </p>
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>CPU博物馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Intel</li>
+          <li>AMD</li>
+          <li>Cyrix</li>
+          <li>VIA</li>
+          <li>Texas Instruments</li>
+          <li>Geode</li>
+          <li>IBM</li>
+          <li>IDT</li>
+          <li>Motorola</li>
+          <li>Siemens</li>
+          <li>Qualcomm</li>
+          <li>Zilog</li>
+          <li>Apple</li>
+        </ul>
+        <p>
+          CPU博物馆是一个致力于传承和推广 CPU 文化的非盈利性项目，
+          我希望通过这个网站，能让更多的人了解 CPU 的魅力和价值，也能激发更多的人对 CPU 的兴趣和热情。
+          在这个网站上，您可以浏览我多年来收集的各种 CPU，从最早的 Intel 4004 到最新的 Intel Core，从 8 位到 64 位，
+          从单核到多核，从英特尔到 AMD，从 x86 到 ARM，从桌面到移动，从商用到工程样品，应有尽有。
+          您可以看到每个 CPU 的外观、参数、功能、历史、故事和趣闻。您也可以与其他 CPU 爱好者交流心得和经验，或者向我提出问题和建议。
+        </p>
+        <div class="image" style="width: clamp(0px, 95vw, 680px)">
+        </div>
+        <hr />
+
+        <h2>中华学习机专题</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>CEC</li>
+          <li>Apple II</li>
+        </ul>
+        <p>
+          “计算机的普及要从娃娃抓起”，1984年2月16日，上海市展览馆举办十年科技成果展。
+          在展览会上，13岁的李劲坐在计算机前操作计算机程序，演示给前来参观的邓小平看，小平同志看完以后就说了这句话。 
+          在良好的环境加上政策支持下，1986年的一天，中国国产个人电脑横空出世，这就是中华学习机，初始型号CEC-I，后面还有改进型号。
+          CEC-I中华学习机与Apple IIe微机兼容，其功能与Apple IIe相当，并有所增强。
+          中华学习机承载着为推动中小学普及电脑知识的重任，将其称为“中国第一款国产个人电脑”也不为过。
+        </p>
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>Flash档案馆</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Falsh</li>
+          <li>Ruffle</li>
+        </ul>
+        <p>
+          Flash 曾经是互联网的一部分，也为互联网带来了繁荣。Flash 的落幕代表着一个时代的结束，它承载着我们许多的回忆。
+          Flash 档案馆目前收录了 8000 多个历史上热门的各类 Falsh 动画，通过 Ruffle 技术进行渲染播放，无需安装插件。
+        </p>
+        <div class="image">
+        </div>
+        <hr />
+
+        <h2>Amiga 软件专题</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Amiga</li>
+          <li>Games</li>
+        </ul>
+        <p>
+          Amiga电脑作为1980年代中期最为强大的16位多媒体电脑，在西方电脑爱好者中具有极高的地位。
+          处理器是摩托罗拉的680x0系列处理器。是第一代具有真彩显示的计算机之一。
+          Amiga计算机为高分辨率，快速的图形响应，多媒体任务，特别是游戏方面做了专门设计。
+          《InfoWorld》认为它将会是继Apple II和IBM PC之后个人电脑领域的 “第三座里程碑”。
+        </p>
+        <div class="image">
+          <img
+            src="https://computer.retromuseum.org:86/images/labs/amiga.jpg"
+            width="100%"
+            alt="Amiga 软件专题"
+            style="aspect-ratio: 600 / 467"
+          />
+        </div>
+        <hr />
+
+        <h2>Apple Macintosh 软件专题</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Apple</li>
+          <li>Macintosh</li>
+        </ul>
+        <p>
+          从1984年到1997年，采用Motorola 68000系列处理器的Apple Macintosh系列电脑，
+          以其优秀的设计、易用的界面、高质的硬件和软件而受到了教育、艺术、设计等领域的青睐，
+          但也因为其高昂的价格、封闭的生态、低下的兼容性而限制了其市场份额。
+          在Apple Macintosh软件专题展览中，您将与Macintosh相遇，在浏览器中感受那段缺失的岁月。
+        </p>
+        <div class="image">
+          <img
+            src="https://computer.retromuseum.org:86/images/labs/macdemos.jpg"
+            width="100%"
+            alt="Apple Macintosh 软件专题"
+            style="aspect-ratio: 610 / 437"
+          />
+        </div>
+        <hr />
+
+        <h2>Windows 3.x 软件专题</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>Windows 3.0</li>
+          <li>Windows 3.1</li>
+          <li>Windows 3.2</li>
+          <li>DosBox</li>
+        </ul>
+        <p>
+          Windows 3.0/3.1/3.2等都是在建立在DOS上的操作环境，并不是一个真正的操作系统，但就其意义而言却非常重大，
+          因为它们实现了PC机操作的图形化。此专题提供了一种在线体验方式，可通过浏览器再次使用这些Windows 3.x下的经典软件。
+        </p>
+
+        <div class="image">
+          <img
+            src="https://computer.retromuseum.org:86/images/labs/win31demos.jpg"
+            width="100%"
+            alt="Windows 3.x 软件专题"
+            style="aspect-ratio: 1118 / 697"
+          />
+        </div>
+        <hr />
+
+        <h2>DOS软件专题</h2>
+        <h3></h3>
+        <ul class="skills">
+          <li>DOS</li>
+          <li>DOSBox</li>
+        </ul>
+        <p>
+          DOS，全称是Disk Operating System，翻译为磁盘操作系统，是现在Windows操作系统的前身。
+          相对于Windows系列，DOS较难学习，不易操作，却有着Windows最为欠缺的自由和开放。
+          它允许人们对电脑进行无止境的探索，从而锻造出一批又一批的高手。
+          而现在大行其道的Windows，却总是要求使用者时时刻刻循规蹈距。
+          此专题提供了一种在线使用古老DOS软件的方式，不妨来重温一下过去自由的好时光吧！
+        </p>
+        <div class="image">
+          <img
+            src="https://computer.retromuseum.org:86/images/labs/dosbox2.jpg"
+            width="100%"
+            alt="Amiga 软件专题"
+            style="aspect-ratio: 1179 / 743"
+          />
+        </div>
+        <hr />
+        <p>
+          上面是对复古电脑博物馆部分内容的展示，更丰富的内容正等着您去参观、体验。
+        </p>
+      </section>
+
+      <section>
+        <h1 id="contact">Contact</h1>
+        <p style="text-align: center">
+          您有什么建议，请及时
+          <a href="https://www.retromuseum.org/contact.html" target="_blank"><u><b>反馈</b></u></a>
+          给我。
+        </p>
+      </section>
+    </main>
+
+    <input type="text" id="textarea" readonly />
+    <div id="loading">
+      <h2>Booting...</h2>
+      <div id="loading-bar">
+        <div id="loading-bar-progress"></div>
+      </div>
+      <div id="loading-items">Starting...</div>
+    </div>
+    <footer>
+      <div>
+        RetroMuseum.ORG
+      </div>
+      <div>COPYRIGHT © 2021-2024 Honux.</div>
+    </footer>
+    <script>
+      function closeMenu() {
+        document.getElementsByTagName("nav")[0].classList.remove(["active"]);
+      }
+
+      function toggleMenu() {
+        const nav = document.getElementsByTagName("nav")[0];
+        if (nav.classList.contains("active")) {
+          nav.classList.remove(["active"]);
+        } else {
+          nav.classList.add("active");
+        }
+      }
+    </script>
+
+  </body>
+</html>

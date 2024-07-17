@@ -494,5 +494,17 @@
       }
     </script>
 
+    <script async src="https://ackee.ihonux.com/tracker.js" data-ackee-server="https://ackee.ihonux.com" data-ackee-domain-id="1476884b-dbb4-4310-bf47-cf034e75a9d9" data-ackee-opts='{ "detailed": true }'></script>
+    <script>
+        var init_page = function() {
+            var oHead = document.getElementsByTagName("HEAD").item(0);
+            var oScript= document.createElement("script");
+            oScript.type = "text/javascript";
+            oScript.src="https://computer.retromuseum.org:90/console/visit_log.php?url=" + encodeURIComponent(window.location.href) + "&t=" + Date.now();
+            oHead.appendChild(oScript);
+        }
+        window.addEventListener("load", init_page, false);
+    </script>
+
   </body>
 </html>
